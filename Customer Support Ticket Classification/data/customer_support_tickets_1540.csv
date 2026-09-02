@@ -1,0 +1,1541 @@
+ticket_id,ticket,category,priority
+1,I am contacting support because money was deducted but my order was not confirmed Please let me know what I need to do.,Payment Issue,Medium
+2,I am contacting support because i cannot complete the checkout because of an error This is urgent.,Technical Issue,Medium
+3,I need support with this: the payment was rejected even though i have enough balance I need an update.,Payment Issue,High
+4,I am having trouble because I need help with a failed payment Can you check this for me?,Payment Issue,High
+5,I need support with this: The item in my order is incorrect Please help me.,Order Issue,Low
+6,I get an error when uploading a file,Technical Issue,Medium
+7,"Please help me, why was i charged for the subscription? What should I do?",Subscription,Low
+8,I need assistance because Can I downgrade my subscription? Please resolve this.,Subscription,Low
+9,I need assistance because i placed the wrong order and need help Please resolve this.,Order Issue,Medium
+10,"Please help me, When will my order be delivered? This is urgent.",Delivery,High
+11,Could you please help? My subscription payment failed I need an update.,Subscription,Medium
+12,I am having trouble because My card payment was declined What should I do?,Payment Issue,Medium
+13,"Please help me, The mobile app keeps freezing Please let me know what I need to do.",Technical Issue,High
+14,Can you help? my refund is still pending Can you check this for me?,Refund,Medium
+15,I am contacting support because I need help with my subscription I need an update.,Subscription,Low
+16,"Please help me, Where is my order? What should I do?",Delivery,Low
+17,I need assistance because The refund amount is missing from my account I need an update.,Refund,Medium
+18,Please help me recover my account Please resolve this.,Account Issue,Low
+19,"Please help me, when will my order be delivered? Please let me know what I need to do.",Delivery,High
+20,I am having trouble because I cannot log into my account Please help me.,Account Issue,High
+21,I need assistance because I cannot complete the checkout because of an error What should I do?,Technical Issue,High
+22,Can you help? I forgot my password I need an update.,Account Issue,Low
+23,I need assistance because The payment page shows an error What should I do?,Payment Issue,High
+24,Can you help? please provide an update on my delivery This is urgent.,Delivery,High
+25,I am contacting support because Please process my refund Can you check this for me?,Refund,Medium
+26,I need support with this: i am seeing an error message,Technical Issue,High
+27,I need support with this: i am unable to sign in Please help me.,Account Issue,Medium
+28,I am contacting support because when will my order be delivered?,Delivery,Medium
+29,I am having trouble because How long will my refund take? Please let me know what I need to do.,Refund,Medium
+30,I am having trouble because the product is damaged and i want a refund This is urgent.,Refund,Medium
+31,I need assistance because My payment failed while placing the order This is urgent.,Payment Issue,Medium
+32,I am contacting support because my order contains the wrong item Please let me know what I need to do.,Order Issue,Medium
+33,I am having trouble because Money was deducted but my order was not confirmed Please resolve this.,Payment Issue,Medium
+34,"Please help me, Can you tell me the delivery status? Can you check this for me?",Delivery,Medium
+35,I am having trouble because I cannot reset my password Can you check this for me?,Account Issue,Low
+36,I need support with this: The payment was rejected even though I have enough balance Please resolve this.,Payment Issue,Medium
+37,Could you please help? money was deducted but my order was not confirmed What should I do?,Payment Issue,High
+38,I am having trouble because My payment failed while placing the order Please help me.,Payment Issue,High
+39,I need support with this: My account is locked Please help me.,Account Issue,Medium
+40,I need assistance because please help me recover my account This is urgent.,Account Issue,High
+41,I need support with this: When will the refund be credited? Please resolve this.,Refund,Medium
+42,I am contacting support because The item in my order is incorrect Please help me.,Order Issue,Low
+43,Can you help? i forgot my account credentials Please resolve this.,Account Issue,Low
+44,Could you please help? how long will my refund take? Please let me know what I need to do.,Refund,Medium
+45,I am having trouble because I received only part of my order Please let me know what I need to do.,Order Issue,Low
+46,"Please help me, I want to renew my subscription I need an update.",Subscription,Low
+47,I am having trouble because I received the wrong product This is urgent.,Order Issue,Low
+48,I need support with this: i need to update my order details Please let me know what I need to do.,Order Issue,Medium
+49,I need assistance because My refund is still pending I need an update.,Refund,High
+50,Could you please help? how can i upgrade my subscription? This is urgent.,Subscription,Medium
+51,I need assistance because Can you tell me the delivery status? Please help me.,Delivery,Medium
+52,I am contacting support because how can i change my password? Please resolve this.,Account Issue,Low
+53,Could you please help? I want to modify my order,Order Issue,Medium
+54,I am contacting support because My login is not working What should I do?,Account Issue,Low
+55,I am contacting support because Can I downgrade my subscription? I need an update.,Subscription,Low
+56,"Please help me, I want to cancel my subscription",Subscription,Low
+57,I am contacting support because Why did my online payment fail? This is urgent.,Payment Issue,High
+58,Can you help? The expected delivery date has passed This is urgent.,Delivery,Low
+59,I need support with this: My account is locked What should I do?,Account Issue,Low
+60,"Please help me, Please provide an update on my delivery This is urgent.",Delivery,High
+61,"Please help me, i cannot access my account This is urgent.",Account Issue,High
+62,Could you please help? I cannot reset my password Can you check this for me?,Account Issue,High
+63,I am contacting support because How can I upgrade my subscription? Please resolve this.,Subscription,Low
+64,I need support with this: Please process my refund This is urgent.,Refund,High
+65,Could you please help? how long will my refund take? Please help me.,Refund,High
+66,"Please help me, I forgot my password What should I do?",Account Issue,Low
+67,"Please help me, the payment was rejected even though i have enough balance I need an update.",Payment Issue,Medium
+68,I need assistance because The app stopped responding What should I do?,Technical Issue,Medium
+69,I am having trouble because I need to update my order details Please help me.,Order Issue,Medium
+70,"Please help me, I am seeing an error message",Technical Issue,Medium
+71,I need support with this: how long will my refund take? What should I do?,Refund,Medium
+72,I need assistance because I need to update my order details Please let me know what I need to do.,Order Issue,Low
+73,I need assistance because The app stopped responding This is urgent.,Technical Issue,Medium
+74,I need assistance because my shipment has not arrived yet I need an update.,Delivery,Low
+75,Can you help? i received the wrong product I need an update.,Order Issue,Medium
+76,"Please help me, How do I change my subscription plan? I need an update.",Subscription,Low
+77,I need support with this: my subscription payment failed This is urgent.,Subscription,Low
+78,I am having trouble because The application is very slow I need an update.,Technical Issue,Medium
+79,I need assistance because I cannot reset my password What should I do?,Account Issue,High
+80,The website keeps crashing Please resolve this.,Technical Issue,High
+81,I need support with this: how can i change my password? What should I do?,Account Issue,High
+82,"Please help me, I want to cancel my order This is urgent.",Order Issue,Medium
+83,I am having trouble because i was charged twice for the same order I need an update.,Payment Issue,High
+84,I need support with this: When will the refund be credited? What should I do?,Refund,Medium
+85,I need to request a refund Please let me know what I need to do.,Refund,High
+86,I need assistance because The mobile app keeps freezing What should I do?,Technical Issue,High
+87,The payment was rejected even though I have enough balance What should I do?,Payment Issue,High
+88,Can you help? When will my order be delivered? Please help me.,Delivery,Low
+89,Could you please help? my payment failed while placing the order Please let me know what I need to do.,Payment Issue,High
+90,"Please help me, Why was I charged for the subscription?",Subscription,Low
+91,I need assistance because I forgot my account credentials Please resolve this.,Account Issue,High
+92,The refund amount is missing from my account Please help me.,Refund,Medium
+93,I need support with this: my payment failed while placing the order Please let me know what I need to do.,Payment Issue,Medium
+94,I am contacting support because The expected delivery date has passed This is urgent.,Delivery,High
+95,Could you please help? i received the wrong product I need an update.,Order Issue,Medium
+96,I need support with this: i need help with a failed payment I need an update.,Payment Issue,Medium
+97,I am having trouble because i want to renew my subscription Please let me know what I need to do.,Subscription,Low
+98,Can you help? I cannot reset my password Can you check this for me?,Account Issue,Medium
+99,The app stopped responding What should I do?,Technical Issue,High
+100,I need assistance because The application is very slow Please help me.,Technical Issue,Medium
+101,Can you help? how can i upgrade my subscription? This is urgent.,Subscription,Medium
+102,I need support with this: My package is delayed Can you check this for me?,Delivery,High
+103,Could you please help? The product is damaged and I want a refund This is urgent.,Refund,Medium
+104,I get an error when uploading a file Please resolve this.,Technical Issue,High
+105,I am contacting support because Money was deducted but my order was not confirmed Can you check this for me?,Payment Issue,Medium
+106,I need assistance because the website is not working I need an update.,Technical Issue,High
+107,Can you help? i forgot my account credentials Can you check this for me?,Account Issue,High
+108,"Please help me, I am unable to sign in Can you check this for me?",Account Issue,High
+109,I need support with this: i was charged but the transaction failed What should I do?,Payment Issue,Medium
+110,I need assistance because my refund is still pending I need an update.,Refund,High
+111,I am contacting support because I placed the wrong order and need help Please resolve this.,Order Issue,Medium
+112,I need assistance because how long will my refund take? Can you check this for me?,Refund,High
+113,Could you please help? I need to request a refund This is urgent.,Refund,High
+114,I need assistance because I cannot log into my account Please let me know what I need to do.,Account Issue,Low
+115,I am having trouble because Can you tell me the delivery status? I need an update.,Delivery,High
+116,The page is not loading Please let me know what I need to do.,Technical Issue,High
+117,I need support with this: I want to modify my order I need an update.,Order Issue,Low
+118,I am contacting support because the application is very slow What should I do?,Technical Issue,Medium
+119,I need support with this: The expected delivery date has passed Can you check this for me?,Delivery,Low
+120,I am contacting support because how long will my refund take? Can you check this for me?,Refund,Medium
+121,I am contacting support because I forgot my account credentials I need an update.,Account Issue,Medium
+122,Could you please help? the app stopped responding This is urgent.,Technical Issue,Medium
+123,I am contacting support because i forgot my account credentials Please help me.,Account Issue,Low
+124,I need assistance because i want to renew my subscription Please resolve this.,Subscription,Medium
+125,Can you help? Why did my online payment fail? What should I do?,Payment Issue,Medium
+126,Could you please help? I need to request a refund Please resolve this.,Refund,High
+127,I am having trouble because Can I change my order before it ships? Please resolve this.,Order Issue,Medium
+128,"Please help me, Please provide an update on my delivery What should I do?",Delivery,Medium
+129,I need assistance because I want to track my package What should I do?,Delivery,Medium
+130,Could you please help? Can I change my order before it ships? Please let me know what I need to do.,Order Issue,High
+131,Can you help? the app stopped responding Please let me know what I need to do.,Technical Issue,High
+132,Can you help? i am seeing an error message,Technical Issue,Medium
+133,I am contacting support because I want to modify my order Please help me.,Order Issue,High
+134,Could you please help? I forgot my password Can you check this for me?,Account Issue,High
+135,I am contacting support because please help me recover my account Please resolve this.,Account Issue,High
+136,Could you please help? The refund amount is missing from my account What should I do?,Refund,Medium
+137,I am having trouble because my account is locked This is urgent.,Account Issue,High
+138,Can you help? can i change my order before it ships? Please let me know what I need to do.,Order Issue,Low
+139,I need support with this: I want to cancel my order,Order Issue,Medium
+140,I need support with this: My card payment was declined Can you check this for me?,Payment Issue,Medium
+141,"Please help me, My subscription was cancelled unexpectedly Please let me know what I need to do.",Subscription,Low
+142,I am having trouble because money was deducted but my order was not confirmed,Payment Issue,High
+143,I need support with this: my order was cancelled unexpectedly This is urgent.,Order Issue,High
+144,"Please help me, i placed the wrong order and need help Can you check this for me?",Order Issue,High
+145,"Please help me, my refund is still pending I need an update.",Refund,High
+146,Can you help? I want to track my package This is urgent.,Delivery,Low
+147,Could you please help? i want to track my package Can you check this for me?,Delivery,Low
+148,I need support with this: My payment is still pending What should I do?,Payment Issue,High
+149,Could you please help? My login is not working Please help me.,Account Issue,Medium
+150,I am contacting support because I want to modify my order Please resolve this.,Order Issue,Medium
+151,"Please help me, I want to renew my subscription What should I do?",Subscription,Medium
+152,I need support with this: Please help me recover my account Can you check this for me?,Account Issue,Medium
+153,Can I downgrade my subscription? This is urgent.,Subscription,Low
+154,Could you please help? the application is very slow Can you check this for me?,Technical Issue,Medium
+155,I am having trouble because The item in my order is incorrect Please let me know what I need to do.,Order Issue,High
+156,I need assistance because I was charged but the transaction failed Can you check this for me?,Payment Issue,Medium
+157,Could you please help? I forgot my password Please help me.,Account Issue,Medium
+158,I need support with this: I want to renew my subscription Please help me.,Subscription,High
+159,I am having trouble because when will my order be delivered? Please let me know what I need to do.,Delivery,Low
+160,Can you help? the page is not loading,Technical Issue,High
+161,The delivery is taking too long Please help me.,Delivery,Medium
+162,Could you please help? I want to renew my subscription Can you check this for me?,Subscription,Medium
+163,"Please help me, the payment page shows an error This is urgent.",Payment Issue,High
+164,I need support with this: My refund is still pending Please resolve this.,Refund,Medium
+165,Could you please help? where is my order? Can you check this for me?,Delivery,Low
+166,I am contacting support because the delivery is taking too long,Delivery,Medium
+167,"Please help me, i cannot access my account Please resolve this.",Account Issue,Low
+168,I am having trouble because I forgot my password Please resolve this.,Account Issue,High
+169,Can you help? Where is my order? Please let me know what I need to do.,Delivery,Medium
+170,I need assistance because I want to modify my order Please let me know what I need to do.,Order Issue,High
+171,I need support with this: i need help with my subscription,Subscription,High
+172,I want to modify my order,Order Issue,Medium
+173,The website is not working What should I do?,Technical Issue,High
+174,Could you please help? The refund amount is missing from my account Please help me.,Refund,Medium
+175,I am contacting support because I want to track my package Can you check this for me?,Delivery,High
+176,My shipment has not arrived yet Please help me.,Delivery,Low
+177,Please help me recover my account Can you check this for me?,Account Issue,Low
+178,Can you help? i forgot my account credentials This is urgent.,Account Issue,Medium
+179,I am having trouble because My package has not arrived,Delivery,Low
+180,"Please help me, i want to cancel my order Please help me.",Order Issue,Medium
+181,"Please help me, The application is crashing when I open it Please let me know what I need to do.",Technical Issue,Medium
+182,I need assistance because my login is not working I need an update.,Account Issue,High
+183,"Please help me, My shipment has not arrived yet Can you check this for me?",Delivery,Low
+184,I need assistance because i received only part of my order Please let me know what I need to do.,Order Issue,Low
+185,Can you help? The payment page shows an error I need an update.,Payment Issue,Medium
+186,"Please help me, i want to modify my order What should I do?",Order Issue,High
+187,I am contacting support because i get an error when uploading a file Please let me know what I need to do.,Technical Issue,High
+188,I am having trouble because can you tell me the delivery status? Please resolve this.,Delivery,Medium
+189,How can i change my password? Can you check this for me?,Account Issue,Low
+190,I need support with this: the payment page shows an error Please let me know what I need to do.,Payment Issue,High
+191,I need support with this: The product is damaged and I want a refund I need an update.,Refund,High
+192,"Please help me, why was i charged for the subscription? This is urgent.",Subscription,Low
+193,I am contacting support because Can I change my order before it ships? This is urgent.,Order Issue,High
+194,I am contacting support because i want to track my package Can you check this for me?,Delivery,High
+195,I need help with a failed payment What should I do?,Payment Issue,High
+196,Can you help? i placed the wrong order and need help Can you check this for me?,Order Issue,High
+197,Could you please help? the website keeps crashing Can you check this for me?,Technical Issue,High
+198,I need assistance because my payment failed while placing the order Please let me know what I need to do.,Payment Issue,High
+199,Could you please help? I want to modify my order What should I do?,Order Issue,Low
+200,I am having trouble because i want to cancel my order What should I do?,Order Issue,Medium
+201,I am contacting support because My package has not arrived Please let me know what I need to do.,Delivery,High
+202,Could you please help? My login is not working What should I do?,Account Issue,Low
+203,I am contacting support because I cannot reset my password This is urgent.,Account Issue,Medium
+204,I am contacting support because My refund is still pending Please help me.,Refund,High
+205,I need assistance because i have not received my refund yet What should I do?,Refund,High
+206,I need support with this: The expected delivery date has passed,Delivery,Medium
+207,I need support with this: money was deducted but my order was not confirmed Can you check this for me?,Payment Issue,High
+208,"Please help me, I cannot complete the checkout because of an error Please resolve this.",Technical Issue,High
+209,Can you help? The application is very slow,Technical Issue,High
+210,Could you please help? how long will my refund take? I need an update.,Refund,Medium
+211,Could you please help? I want to track my package Please help me.,Delivery,High
+212,I am contacting support because Why was I charged for the subscription? What should I do?,Subscription,Low
+213,I am having trouble because I cannot log into my account Please let me know what I need to do.,Account Issue,Low
+214,I need support with this: i cannot log into my account I need an update.,Account Issue,High
+215,Could you please help? i am seeing an error message,Technical Issue,High
+216,"Please help me, how do i change my subscription plan? This is urgent.",Subscription,Low
+217,I need support with this: Can I change my order before it ships? Please resolve this.,Order Issue,High
+218,I am having trouble because How do I change my subscription plan? What should I do?,Subscription,Medium
+219,"Please help me, the application is crashing when i open it Can you check this for me?",Technical Issue,Medium
+220,I am having trouble because Can you tell me the delivery status? I need an update.,Delivery,Medium
+221,"Please help me, My payment failed while placing the order",Payment Issue,High
+222,I need assistance because i am seeing an error message What should I do?,Technical Issue,Medium
+223,I need support with this: i want to renew my subscription Can you check this for me?,Subscription,High
+224,I am having trouble because can i change my order before it ships? I need an update.,Order Issue,Low
+225,I am contacting support because I cannot log into my account I need an update.,Account Issue,Medium
+226,Can you help? My refund is still pending Please help me.,Refund,High
+227,Could you please help? How do I change my subscription plan? Please help me.,Subscription,High
+228,I need assistance because I need to request a refund What should I do?,Refund,Medium
+229,Could you please help? My account is locked This is urgent.,Account Issue,Medium
+230,I need assistance because I received the wrong product I need an update.,Order Issue,High
+231,Can you help? I received only part of my order Can you check this for me?,Order Issue,Low
+232,I am having trouble because The app stopped responding Can you check this for me?,Technical Issue,Medium
+233,I am contacting support because I cannot access my account Please let me know what I need to do.,Account Issue,High
+234,I need assistance because I need help with a failed payment Can you check this for me?,Payment Issue,Medium
+235,I need support with this: I want to modify my order What should I do?,Order Issue,Low
+236,Can you help? i want a refund for my order This is urgent.,Refund,High
+237,I need support with this: My account is locked Please let me know what I need to do.,Account Issue,Low
+238,Can you help? When will the refund be credited? Can you check this for me?,Refund,Medium
+239,I am contacting support because I want to modify my order,Order Issue,Low
+240,I need support with this: I want to cancel my subscription What should I do?,Subscription,Low
+241,I need assistance because My refund is still pending Can you check this for me?,Refund,Medium
+242,Could you please help? The website keeps crashing Please help me.,Technical Issue,Medium
+243,I get an error when uploading a file Please resolve this.,Technical Issue,High
+244,I am having trouble because I received the wrong product What should I do?,Order Issue,Medium
+245,I am having trouble because I was charged twice for the same order Please let me know what I need to do.,Payment Issue,Medium
+246,I need support with this: Can you tell me the delivery status? Please resolve this.,Delivery,Medium
+247,I need assistance because the application is crashing when i open it,Technical Issue,High
+248,I am contacting support because my subscription was cancelled unexpectedly Can you check this for me?,Subscription,High
+249,Could you please help? My card payment was declined What should I do?,Payment Issue,High
+250,When will my order be delivered?,Delivery,Low
+251,Can you help? Can I change my order before it ships? Can you check this for me?,Order Issue,Medium
+252,"Please help me, I need to update my order details Can you check this for me?",Order Issue,Medium
+253,Can I change my order before it ships? Please let me know what I need to do.,Order Issue,Low
+254,I am contacting support because i received only part of my order Please resolve this.,Order Issue,High
+255,I am contacting support because My login is not working Please resolve this.,Account Issue,Medium
+256,I am contacting support because I am seeing an error message Can you check this for me?,Technical Issue,High
+257,I am contacting support because How long will my refund take? Please let me know what I need to do.,Refund,High
+258,Could you please help? i get an error when uploading a file Please help me.,Technical Issue,Medium
+259,I am contacting support because I want a refund for my order What should I do?,Refund,Medium
+260,Could you please help? The product is damaged and I want a refund,Refund,High
+261,I need assistance because my card payment was declined This is urgent.,Payment Issue,Medium
+262,The application is very slow Please let me know what I need to do.,Technical Issue,High
+263,Could you please help? The application is very slow,Technical Issue,Medium
+264,Can you help? I cannot reset my password This is urgent.,Account Issue,Low
+265,Can you help? My refund is still pending Please help me.,Refund,High
+266,I need assistance because I want to modify my order This is urgent.,Order Issue,High
+267,"Please help me, I cannot complete the checkout because of an error",Technical Issue,High
+268,"Please help me, How do I change my subscription plan?",Subscription,High
+269,Could you please help? please provide an update on my delivery This is urgent.,Delivery,Low
+270,I am contacting support because i need to request a refund What should I do?,Refund,High
+271,My order was cancelled unexpectedly What should I do?,Order Issue,Low
+272,I am having trouble because How long will my refund take?,Refund,Medium
+273,"Please help me, How long will my refund take? What should I do?",Refund,High
+274,I am contacting support because can i change my order before it ships? I need an update.,Order Issue,Low
+275,Could you please help? My subscription was cancelled unexpectedly I need an update.,Subscription,Medium
+276,Can I downgrade my subscription? I need an update.,Subscription,Low
+277,I am having trouble because i was charged for my subscription Please let me know what I need to do.,Subscription,Low
+278,Could you please help? The application is very slow What should I do?,Technical Issue,Medium
+279,Could you please help? I have not received my refund yet What should I do?,Refund,High
+280,"Please help me, The application is crashing when I open it Please help me.",Technical Issue,Medium
+281,"Please help me, I received only part of my order I need an update.",Order Issue,Medium
+282,I am having trouble because The website keeps crashing Please let me know what I need to do.,Technical Issue,Medium
+283,I need assistance because my login is not working Please help me.,Account Issue,High
+284,I cannot complete the checkout because of an error,Technical Issue,Medium
+285,"Please help me, how can i upgrade my subscription? Please help me.",Subscription,Low
+286,Could you please help? The website keeps crashing,Technical Issue,High
+287,"Please help me, Please help me recover my account Please help me.",Account Issue,Medium
+288,I need support with this: my package has not arrived Please resolve this.,Delivery,High
+289,"Please help me, i get an error when uploading a file This is urgent.",Technical Issue,Medium
+290,"Please help me, How can I upgrade my subscription? Please resolve this.",Subscription,High
+291,I am having trouble because i forgot my account credentials I need an update.,Account Issue,Low
+292,The page is not loading,Technical Issue,High
+293,Can you help? Why did my online payment fail? I need an update.,Payment Issue,Medium
+294,Could you please help? please help me recover my account Please help me.,Account Issue,High
+295,I forgot my password What should I do?,Account Issue,High
+296,I need support with this: the delivery is taking too long I need an update.,Delivery,Medium
+297,I am having trouble because i was charged but the transaction failed This is urgent.,Payment Issue,High
+298,"Please help me, I am unable to sign in This is urgent.",Account Issue,Medium
+299,Can you help? I cannot log into my account,Account Issue,Medium
+300,Could you please help? Can I change my order before it ships? Can you check this for me?,Order Issue,Medium
+301,"Please help me, i get an error when uploading a file",Technical Issue,Medium
+302,"Please help me, the mobile app keeps freezing What should I do?",Technical Issue,High
+303,"Please help me, How do I change my subscription plan? Please resolve this.",Subscription,Medium
+304,I am contacting support because The page is not loading I need an update.,Technical Issue,High
+305,I need support with this: I cannot reset my password I need an update.,Account Issue,Medium
+306,Could you please help? I need to update my order details I need an update.,Order Issue,High
+307,I get an error when uploading a file I need an update.,Technical Issue,Medium
+308,I need assistance because why was i charged for the subscription? I need an update.,Subscription,High
+309,The application is very slow Please let me know what I need to do.,Technical Issue,Medium
+310,Can you help? I want to renew my subscription I need an update.,Subscription,Low
+311,Can you help? Please provide an update on my delivery What should I do?,Delivery,Medium
+312,"Please help me, my login is not working",Account Issue,Medium
+313,I am contacting support because i returned the product but have not received my money I need an update.,Refund,High
+314,I am having trouble because My payment is still pending This is urgent.,Payment Issue,High
+315,I need support with this: The page is not loading This is urgent.,Technical Issue,High
+316,Could you please help? How do I change my subscription plan? Please help me.,Subscription,Medium
+317,I need support with this: Why did my online payment fail? Please help me.,Payment Issue,High
+318,I need assistance because Can I downgrade my subscription? What should I do?,Subscription,Medium
+319,I need assistance because how can i change my password? I need an update.,Account Issue,Medium
+320,I am contacting support because The application is crashing when I open it Please let me know what I need to do.,Technical Issue,High
+321,"Please help me, Money was deducted but my order was not confirmed I need an update.",Payment Issue,High
+322,I get an error when uploading a file Please resolve this.,Technical Issue,High
+323,I need assistance because Please provide an update on my delivery This is urgent.,Delivery,High
+324,The page is not loading Please resolve this.,Technical Issue,High
+325,I need assistance because I received only part of my order,Order Issue,High
+326,I need support with this: I get an error when uploading a file This is urgent.,Technical Issue,High
+327,I am contacting support because The website keeps crashing Please resolve this.,Technical Issue,Medium
+328,Could you please help? I forgot my account credentials Can you check this for me?,Account Issue,Medium
+329,I am having trouble because i need to request a refund,Refund,Medium
+330,Could you please help? The app stopped responding I need an update.,Technical Issue,High
+331,I need support with this: i want to track my package Please help me.,Delivery,Low
+332,Can you help? can you tell me the delivery status? Can you check this for me?,Delivery,Medium
+333,I need assistance because the app stopped responding What should I do?,Technical Issue,Medium
+334,The mobile app keeps freezing Please resolve this.,Technical Issue,High
+335,Can you help? I need to request a refund Please help me.,Refund,High
+336,I am contacting support because Can I downgrade my subscription? What should I do?,Subscription,Low
+337,My order was cancelled unexpectedly Please let me know what I need to do.,Order Issue,High
+338,I need support with this: i want to renew my subscription Please let me know what I need to do.,Subscription,Medium
+339,I am having trouble because Please help me recover my account,Account Issue,Low
+340,I am having trouble because I want to track my package,Delivery,High
+341,I need assistance because The product is damaged and I want a refund I need an update.,Refund,High
+342,I am having trouble because how do i change my subscription plan? Please let me know what I need to do.,Subscription,Medium
+343,Can you help? i was charged for my subscription Please resolve this.,Subscription,High
+344,Can you help? i returned the product but have not received my money Please resolve this.,Refund,High
+345,The delivery is taking too long I need an update.,Delivery,Medium
+346,Could you please help? The expected delivery date has passed Please help me.,Delivery,High
+347,I am contacting support because How can I upgrade my subscription? Please help me.,Subscription,Medium
+348,I need assistance because the page is not loading Please let me know what I need to do.,Technical Issue,Medium
+349,Can you help? my account is locked Can you check this for me?,Account Issue,Medium
+350,I need support with this: My account is locked Please resolve this.,Account Issue,Low
+351,"Please help me, I cannot complete the checkout because of an error Please let me know what I need to do.",Technical Issue,Medium
+352,Can you help? I cannot log into my account Please resolve this.,Account Issue,High
+353,Can you help? i need to request a refund What should I do?,Refund,Medium
+354,"Please help me, My package is delayed What should I do?",Delivery,Low
+355,I received the wrong product Can you check this for me?,Order Issue,High
+356,Could you please help? I want to modify my order Can you check this for me?,Order Issue,High
+357,I am contacting support because I cannot access my account,Account Issue,Medium
+358,Could you please help? I need help with my subscription,Subscription,Low
+359,Can you help? i was charged but the transaction failed Please let me know what I need to do.,Payment Issue,High
+360,I am having trouble because my subscription payment failed Please help me.,Subscription,Medium
+361,My account is locked Please let me know what I need to do.,Account Issue,Low
+362,My login is not working This is urgent.,Account Issue,Medium
+363,Could you please help? how can i upgrade my subscription?,Subscription,Low
+364,I am having trouble because i cannot reset my password Please let me know what I need to do.,Account Issue,High
+365,The expected delivery date has passed Can you check this for me?,Delivery,Low
+366,I need support with this: The mobile app keeps freezing Please help me.,Technical Issue,High
+367,I am seeing an error message Please help me.,Technical Issue,High
+368,"Please help me, The product is damaged and I want a refund",Refund,Medium
+369,I am contacting support because can i downgrade my subscription? Can you check this for me?,Subscription,Low
+370,I need support with this: I am unable to sign in Please resolve this.,Account Issue,Low
+371,I am contacting support because Why did my online payment fail? Please resolve this.,Payment Issue,Medium
+372,I returned the product but have not received my money Can you check this for me?,Refund,Medium
+373,I am contacting support because When will the refund be credited? Please let me know what I need to do.,Refund,Medium
+374,I need support with this: My payment is still pending,Payment Issue,High
+375,Where is my order? What should I do?,Delivery,Low
+376,I need assistance because I need to request a refund Please resolve this.,Refund,Medium
+377,I need assistance because how do i change my subscription plan? This is urgent.,Subscription,High
+378,I need support with this: I need help with my subscription I need an update.,Subscription,Low
+379,I am contacting support because I need help with a failed payment Please help me.,Payment Issue,Medium
+380,"Please help me, I received only part of my order I need an update.",Order Issue,High
+381,I need assistance because i forgot my password Please help me.,Account Issue,Low
+382,I need assistance because My order was cancelled unexpectedly Please let me know what I need to do.,Order Issue,Low
+383,I am contacting support because I need to request a refund Please help me.,Refund,High
+384,I need assistance because The app stopped responding I need an update.,Technical Issue,Medium
+385,My payment is still pending I need an update.,Payment Issue,High
+386,Could you please help? the product is damaged and i want a refund This is urgent.,Refund,High
+387,I am having trouble because Why did my online payment fail? Please resolve this.,Payment Issue,High
+388,I am contacting support because I want to cancel my order Please help me.,Order Issue,Low
+389,Can you help? the item in my order is incorrect Can you check this for me?,Order Issue,Low
+390,Can you help? I need help with my subscription What should I do?,Subscription,Low
+391,I was charged for my subscription Please let me know what I need to do.,Subscription,Low
+392,I am contacting support because The product is damaged and I want a refund Please help me.,Refund,Medium
+393,Can you help? i want to renew my subscription What should I do?,Subscription,Medium
+394,"Please help me, the application is very slow I need an update.",Technical Issue,High
+395,I need support with this: My refund is still pending Please let me know what I need to do.,Refund,High
+396,I am having trouble because Money was deducted but my order was not confirmed Please help me.,Payment Issue,High
+397,Could you please help? my refund is still pending What should I do?,Refund,High
+398,I am contacting support because I need to update my order details Please help me.,Order Issue,Medium
+399,The item in my order is incorrect Can you check this for me?,Order Issue,Medium
+400,I am having trouble because my package has not arrived,Delivery,Medium
+401,I need support with this: I cannot log into my account Can you check this for me?,Account Issue,High
+402,I am having trouble because Can I change my order before it ships?,Order Issue,Medium
+403,Can you help? money was deducted but my order was not confirmed,Payment Issue,High
+404,I need assistance because The delivery is taking too long Please let me know what I need to do.,Delivery,High
+405,"Please help me, I need help with a failed payment This is urgent.",Payment Issue,Medium
+406,Could you please help? the app stopped responding,Technical Issue,Medium
+407,I was charged but the transaction failed Please let me know what I need to do.,Payment Issue,Medium
+408,"Please help me, the item in my order is incorrect I need an update.",Order Issue,High
+409,"Please help me, The app stopped responding Please let me know what I need to do.",Technical Issue,Medium
+410,When will the refund be credited? What should I do?,Refund,Medium
+411,Could you please help? The item in my order is incorrect Please let me know what I need to do.,Order Issue,Low
+412,I need support with this: My package is delayed Please let me know what I need to do.,Delivery,High
+413,I need assistance because i get an error when uploading a file Please resolve this.,Technical Issue,High
+414,I need support with this: how do i change my subscription plan? Please help me.,Subscription,Medium
+415,I need assistance because my refund is still pending Can you check this for me?,Refund,Medium
+416,I need assistance because i was charged twice for the same order What should I do?,Payment Issue,High
+417,I need support with this: my account is locked I need an update.,Account Issue,Low
+418,I am having trouble because The mobile app keeps freezing This is urgent.,Technical Issue,High
+419,I need assistance because The item in my order is incorrect Please help me.,Order Issue,Low
+420,I am contacting support because the mobile app keeps freezing What should I do?,Technical Issue,Medium
+421,I am contacting support because I want to track my package Please resolve this.,Delivery,High
+422,I need assistance because please help me recover my account This is urgent.,Account Issue,Medium
+423,I am contacting support because The website is not working,Technical Issue,Medium
+424,I am contacting support because The website is not working Please let me know what I need to do.,Technical Issue,High
+425,Could you please help? I am unable to sign in Please help me.,Account Issue,Low
+426,The item in my order is incorrect Please let me know what I need to do.,Order Issue,Medium
+427,I am seeing an error message,Technical Issue,High
+428,"Please help me, Please process my refund Can you check this for me?",Refund,Medium
+429,I am having trouble because can i change my order before it ships? Please resolve this.,Order Issue,High
+430,"Please help me, why was i charged for the subscription? Please let me know what I need to do.",Subscription,Low
+431,Can you help? I have not received my refund yet Can you check this for me?,Refund,Medium
+432,Can you help? how do i change my subscription plan? Please let me know what I need to do.,Subscription,Medium
+433,I am contacting support because i want to cancel my subscription What should I do?,Subscription,High
+434,Could you please help? how can i change my password? Please let me know what I need to do.,Account Issue,High
+435,I need assistance because please provide an update on my delivery,Delivery,Low
+436,I need assistance because I received only part of my order I need an update.,Order Issue,Medium
+437,I am contacting support because I need help with my subscription Please help me.,Subscription,Low
+438,I placed the wrong order and need help Please help me.,Order Issue,High
+439,I need support with this: I received the wrong product Please let me know what I need to do.,Order Issue,High
+440,I want a refund for my order What should I do?,Refund,Medium
+441,"Please help me, I am unable to sign in This is urgent.",Account Issue,Medium
+442,I need support with this: my subscription payment failed This is urgent.,Subscription,High
+443,"Please help me, How can I upgrade my subscription? Can you check this for me?",Subscription,Low
+444,Could you please help? I forgot my password What should I do?,Account Issue,High
+445,I forgot my account credentials What should I do?,Account Issue,High
+446,I need support with this: The app stopped responding I need an update.,Technical Issue,High
+447,Can you help? i am unable to sign in What should I do?,Account Issue,Medium
+448,Can you help? i cannot log into my account Please resolve this.,Account Issue,High
+449,I need support with this: i cannot log into my account Please help me.,Account Issue,Low
+450,I am having trouble because Why did my online payment fail? Please resolve this.,Payment Issue,High
+451,"Please help me, the expected delivery date has passed Please help me.",Delivery,Low
+452,Could you please help? When will the refund be credited? Please let me know what I need to do.,Refund,Medium
+453,I am having trouble because When will the refund be credited? Please resolve this.,Refund,Medium
+454,Could you please help? how can i change my password? This is urgent.,Account Issue,High
+455,I need support with this: i want to modify my order What should I do?,Order Issue,Low
+456,I am having trouble because I need to request a refund This is urgent.,Refund,High
+457,"Please help me, I was charged twice for the same order Please help me.",Payment Issue,Medium
+458,Can you help? I need to request a refund What should I do?,Refund,High
+459,"Please help me, please provide an update on my delivery Please resolve this.",Delivery,High
+460,I need assistance because The payment was rejected even though I have enough balance,Payment Issue,Medium
+461,I need assistance because I received the wrong product Please let me know what I need to do.,Order Issue,Low
+462,Can you help? i need help with my subscription Please let me know what I need to do.,Subscription,Medium
+463,Can i downgrade my subscription? What should I do?,Subscription,Low
+464,I need assistance because I cannot reset my password Can you check this for me?,Account Issue,Low
+465,Can you help? where is my order? This is urgent.,Delivery,High
+466,I am having trouble because My account is locked This is urgent.,Account Issue,Medium
+467,I am contacting support because I received the wrong product I need an update.,Order Issue,Medium
+468,I need support with this: I have not received my refund yet This is urgent.,Refund,Medium
+469,Can you help? my order contains the wrong item This is urgent.,Order Issue,Medium
+470,I am having trouble because The expected delivery date has passed,Delivery,Medium
+471,I am contacting support because i placed the wrong order and need help,Order Issue,High
+472,I need support with this: i cannot access my account This is urgent.,Account Issue,High
+473,Can you help? I forgot my password This is urgent.,Account Issue,Medium
+474,"Please help me, Why was I charged for the subscription? Please let me know what I need to do.",Subscription,Low
+475,I am contacting support because Where is my order? Please let me know what I need to do.,Delivery,Low
+476,I am having trouble because the payment was rejected even though i have enough balance I need an update.,Payment Issue,High
+477,I need assistance because My account is locked I need an update.,Account Issue,Medium
+478,Can you help? How can I change my password? What should I do?,Account Issue,Medium
+479,"Please help me, the refund amount is missing from my account",Refund,Medium
+480,I am having trouble because the item in my order is incorrect This is urgent.,Order Issue,Medium
+481,"Please help me, When will the refund be credited? I need an update.",Refund,Medium
+482,I cannot reset my password What should I do?,Account Issue,Medium
+483,"Please help me, i am seeing an error message Please help me.",Technical Issue,Medium
+484,Could you please help? Why did my online payment fail? Please let me know what I need to do.,Payment Issue,High
+485,I am having trouble because i want to cancel my order I need an update.,Order Issue,Low
+486,I am having trouble because My order contains the wrong item What should I do?,Order Issue,High
+487,"Please help me, The application is very slow Can you check this for me?",Technical Issue,High
+488,I want to modify my order Please resolve this.,Order Issue,High
+489,I need assistance because I get an error when uploading a file Can you check this for me?,Technical Issue,High
+490,I was charged twice for the same order Please help me.,Payment Issue,High
+491,I am contacting support because I need to update my order details,Order Issue,High
+492,Could you please help? Can you tell me the delivery status?,Delivery,High
+493,"Please help me, i was charged twice for the same order What should I do?",Payment Issue,Medium
+494,I am having trouble because the website is not working Can you check this for me?,Technical Issue,High
+495,My order contains the wrong item What should I do?,Order Issue,Medium
+496,I need assistance because My order contains the wrong item This is urgent.,Order Issue,Medium
+497,I need support with this: The mobile app keeps freezing This is urgent.,Technical Issue,Medium
+498,I need support with this: How can I upgrade my subscription? Can you check this for me?,Subscription,Low
+499,Could you please help? Can I change my order before it ships? This is urgent.,Order Issue,Low
+500,I need to request a refund Please help me.,Refund,High
+501,I need assistance because my card payment was declined,Payment Issue,Medium
+502,I am contacting support because the mobile app keeps freezing What should I do?,Technical Issue,High
+503,Can you help? The application is very slow I need an update.,Technical Issue,Medium
+504,I need support with this: Can you tell me the delivery status? Please resolve this.,Delivery,High
+505,Could you please help? The delivery is taking too long Can you check this for me?,Delivery,Low
+506,Could you please help? The refund amount is missing from my account Please help me.,Refund,High
+507,"Please help me, Money was deducted but my order was not confirmed Please let me know what I need to do.",Payment Issue,Medium
+508,My card payment was declined This is urgent.,Payment Issue,Medium
+509,I need support with this: The expected delivery date has passed This is urgent.,Delivery,Low
+510,I am contacting support because I cannot reset my password I need an update.,Account Issue,High
+511,"Please help me, I am unable to sign in",Account Issue,Low
+512,I need assistance because I returned the product but have not received my money What should I do?,Refund,Medium
+513,I need support with this: I forgot my account credentials Please resolve this.,Account Issue,Medium
+514,I am contacting support because My shipment has not arrived yet Can you check this for me?,Delivery,Low
+515,I need assistance because I want to renew my subscription Please let me know what I need to do.,Subscription,High
+516,I am having trouble because money was deducted but my order was not confirmed Please help me.,Payment Issue,Medium
+517,I need support with this: how can i change my password? Can you check this for me?,Account Issue,High
+518,"Please help me, i want to track my package Please resolve this.",Delivery,High
+519,I am contacting support because how can i upgrade my subscription? Can you check this for me?,Subscription,Medium
+520,"Please help me, please process my refund I need an update.",Refund,High
+521,I need support with this: i returned the product but have not received my money Please resolve this.,Refund,High
+522,I am having trouble because the item in my order is incorrect This is urgent.,Order Issue,High
+523,Could you please help? i want to cancel my subscription This is urgent.,Subscription,Medium
+524,"Please help me, I have not received my refund yet What should I do?",Refund,Medium
+525,I need support with this: the payment was rejected even though i have enough balance I need an update.,Payment Issue,High
+526,I want a refund for my order I need an update.,Refund,Medium
+527,I need assistance because my order contains the wrong item Please let me know what I need to do.,Order Issue,High
+528,I need assistance because the website keeps crashing Please let me know what I need to do.,Technical Issue,Medium
+529,I was charged but the transaction failed Please resolve this.,Payment Issue,Medium
+530,I am contacting support because the website keeps crashing This is urgent.,Technical Issue,High
+531,Can you help? I returned the product but have not received my money This is urgent.,Refund,High
+532,I need assistance because I forgot my account credentials Please let me know what I need to do.,Account Issue,High
+533,I was charged but the transaction failed What should I do?,Payment Issue,Medium
+534,I am having trouble because I have not received my refund yet What should I do?,Refund,Medium
+535,Can you help? My payment failed while placing the order Please let me know what I need to do.,Payment Issue,Medium
+536,Can you help? My account is locked,Account Issue,Low
+537,Can you help? my package has not arrived Please let me know what I need to do.,Delivery,High
+538,I returned the product but have not received my money What should I do?,Refund,Medium
+539,Can you help? I am seeing an error message Please help me.,Technical Issue,Medium
+540,I need support with this: The delivery is taking too long Please resolve this.,Delivery,Low
+541,I am contacting support because I received only part of my order This is urgent.,Order Issue,Low
+542,Could you please help? when will the refund be credited? Please let me know what I need to do.,Refund,High
+543,I am contacting support because my payment is still pending What should I do?,Payment Issue,High
+544,I need assistance because I forgot my account credentials Can you check this for me?,Account Issue,Medium
+545,I am contacting support because My subscription was cancelled unexpectedly Can you check this for me?,Subscription,High
+546,Can you help? I want to track my package What should I do?,Delivery,Low
+547,I am contacting support because My subscription payment failed This is urgent.,Subscription,Low
+548,Could you please help? I have not received my refund yet Can you check this for me?,Refund,Medium
+549,"Please help me, When will the refund be credited? Please help me.",Refund,Medium
+550,"Please help me, the website is not working Please resolve this.",Technical Issue,High
+551,I am having trouble because My order contains the wrong item,Order Issue,High
+552,"Please help me, The application is crashing when I open it This is urgent.",Technical Issue,High
+553,Where is my order? I need an update.,Delivery,Low
+554,Could you please help? i want to renew my subscription Can you check this for me?,Subscription,High
+555,I need support with this: my login is not working Please let me know what I need to do.,Account Issue,High
+556,I need support with this: How long will my refund take? Can you check this for me?,Refund,Medium
+557,Could you please help? I want to modify my order Please let me know what I need to do.,Order Issue,Low
+558,I need support with this: I was charged twice for the same order This is urgent.,Payment Issue,Medium
+559,I need assistance because Money was deducted but my order was not confirmed Please let me know what I need to do.,Payment Issue,High
+560,Can you help? I want to modify my order Please resolve this.,Order Issue,Medium
+561,Could you please help? i want to track my package,Delivery,Low
+562,Can you help? Can I change my order before it ships? This is urgent.,Order Issue,Medium
+563,"Please help me, Why was I charged for the subscription? Please help me.",Subscription,Medium
+564,Why was i charged for the subscription? Can you check this for me?,Subscription,High
+565,Could you please help? the application is very slow Can you check this for me?,Technical Issue,High
+566,I need support with this: How can I change my password? Please help me.,Account Issue,High
+567,I am contacting support because How can I upgrade my subscription?,Subscription,Low
+568,I am contacting support because why was i charged for the subscription? Please let me know what I need to do.,Subscription,Medium
+569,I need support with this: how can i change my password? Please resolve this.,Account Issue,Medium
+570,I need assistance because I need help with my subscription Please help me.,Subscription,High
+571,"Please help me, How do I change my subscription plan?",Subscription,Medium
+572,Could you please help? How can I upgrade my subscription?,Subscription,High
+573,Can you help? why was i charged for the subscription? Please help me.,Subscription,Medium
+574,I need support with this: The page is not loading Please resolve this.,Technical Issue,High
+575,Can you help? The refund amount is missing from my account I need an update.,Refund,High
+576,Can you help? I forgot my account credentials Can you check this for me?,Account Issue,High
+577,I need assistance because I cannot reset my password Please help me.,Account Issue,Low
+578,I am contacting support because My package is delayed Please resolve this.,Delivery,High
+579,I am contacting support because my subscription payment failed Please let me know what I need to do.,Subscription,High
+580,"Please help me, The expected delivery date has passed I need an update.",Delivery,High
+581,I am having trouble because I was charged for my subscription I need an update.,Subscription,High
+582,"Please help me, Can you tell me the delivery status? Please let me know what I need to do.",Delivery,Low
+583,I need assistance because i cannot access my account Please let me know what I need to do.,Account Issue,Medium
+584,Could you please help? I am unable to sign in,Account Issue,High
+585,The website is not working Please resolve this.,Technical Issue,Medium
+586,I placed the wrong order and need help What should I do?,Order Issue,Medium
+587,I need assistance because I need help with a failed payment I need an update.,Payment Issue,High
+588,I need support with this: why did my online payment fail? Please help me.,Payment Issue,Medium
+589,I need support with this: i forgot my account credentials This is urgent.,Account Issue,Low
+590,Could you please help? My package is delayed Please resolve this.,Delivery,Medium
+591,I need support with this: I received only part of my order What should I do?,Order Issue,Low
+592,Could you please help? The website is not working What should I do?,Technical Issue,Medium
+593,I need help with a failed payment Please resolve this.,Payment Issue,High
+594,"Please help me, i have not received my refund yet Can you check this for me?",Refund,Medium
+595,Can you help? My subscription payment failed Can you check this for me?,Subscription,High
+596,"Please help me, My order contains the wrong item This is urgent.",Order Issue,Medium
+597,I need assistance because The delivery is taking too long I need an update.,Delivery,Medium
+598,Please process my refund I need an update.,Refund,High
+599,I am having trouble because Money was deducted but my order was not confirmed Please help me.,Payment Issue,High
+600,I want to renew my subscription I need an update.,Subscription,Medium
+601,I need assistance because I received only part of my order This is urgent.,Order Issue,High
+602,"Please help me, My login is not working This is urgent.",Account Issue,Medium
+603,Can you help? my refund is still pending Can you check this for me?,Refund,Medium
+604,I need support with this: i cannot access my account Please let me know what I need to do.,Account Issue,Medium
+605,I need support with this: My account is locked This is urgent.,Account Issue,High
+606,I forgot my account credentials This is urgent.,Account Issue,Low
+607,I am having trouble because I need to update my order details Please help me.,Order Issue,Low
+608,I am contacting support because I need help with my subscription,Subscription,High
+609,Could you please help? How do I change my subscription plan? Can you check this for me?,Subscription,Low
+610,I need assistance because I want to cancel my subscription Please resolve this.,Subscription,Medium
+611,How can i upgrade my subscription? Please let me know what I need to do.,Subscription,Low
+612,"Please help me, I need to update my order details Can you check this for me?",Order Issue,High
+613,"Please help me, Please process my refund This is urgent.",Refund,Medium
+614,Could you please help? I want a refund for my order Please help me.,Refund,Medium
+615,"Please help me, How long will my refund take? This is urgent.",Refund,Medium
+616,I am having trouble because My shipment has not arrived yet Please help me.,Delivery,High
+617,Can you help? Why did my online payment fail? What should I do?,Payment Issue,High
+618,I am contacting support because The item in my order is incorrect,Order Issue,Low
+619,Could you please help? i need to request a refund What should I do?,Refund,Medium
+620,Can you help? How can I change my password?,Account Issue,High
+621,Could you please help? i was charged but the transaction failed I need an update.,Payment Issue,Medium
+622,I am having trouble because My order was cancelled unexpectedly This is urgent.,Order Issue,Medium
+623,I want a refund for my order Please resolve this.,Refund,High
+624,I am having trouble because the expected delivery date has passed Can you check this for me?,Delivery,Medium
+625,I need assistance because i was charged but the transaction failed I need an update.,Payment Issue,High
+626,I need assistance because The product is damaged and I want a refund Can you check this for me?,Refund,Medium
+627,I am having trouble because I cannot access my account Please help me.,Account Issue,Low
+628,I am contacting support because Why did my online payment fail? I need an update.,Payment Issue,Medium
+629,Could you please help? My subscription was cancelled unexpectedly Can you check this for me?,Subscription,High
+630,The refund amount is missing from my account This is urgent.,Refund,Medium
+631,"Please help me, the expected delivery date has passed This is urgent.",Delivery,Medium
+632,I need assistance because Why was I charged for the subscription? Please resolve this.,Subscription,Medium
+633,I need assistance because My order was cancelled unexpectedly What should I do?,Order Issue,Medium
+634,I need assistance because Why was I charged for the subscription? Please let me know what I need to do.,Subscription,Low
+635,I am contacting support because I need help with my subscription Please let me know what I need to do.,Subscription,High
+636,I am having trouble because please process my refund Please let me know what I need to do.,Refund,Medium
+637,I need support with this: My subscription payment failed Please let me know what I need to do.,Subscription,High
+638,"Please help me, how do i change my subscription plan? Please help me.",Subscription,Low
+639,"Please help me, i want to renew my subscription Can you check this for me?",Subscription,Medium
+640,Can you help? How can I change my password? Can you check this for me?,Account Issue,Low
+641,Could you please help? I forgot my account credentials This is urgent.,Account Issue,High
+642,Could you please help? i need to request a refund This is urgent.,Refund,High
+643,I need support with this: My account is locked This is urgent.,Account Issue,Low
+644,Can you tell me the delivery status? Please help me.,Delivery,Low
+645,I am contacting support because The page is not loading This is urgent.,Technical Issue,Medium
+646,I need assistance because The application is crashing when I open it Please let me know what I need to do.,Technical Issue,Medium
+647,I need support with this: I cannot log into my account,Account Issue,Medium
+648,I need support with this: The refund amount is missing from my account Please resolve this.,Refund,Medium
+649,"Please help me, how long will my refund take? Please help me.",Refund,High
+650,I am having trouble because i placed the wrong order and need help Can you check this for me?,Order Issue,High
+651,I am having trouble because My package is delayed,Delivery,Low
+652,My shipment has not arrived yet I need an update.,Delivery,Medium
+653,"Please help me, The application is crashing when I open it Please let me know what I need to do.",Technical Issue,High
+654,I need support with this: My order contains the wrong item This is urgent.,Order Issue,High
+655,I am having trouble because I cannot log into my account This is urgent.,Account Issue,Medium
+656,I am having trouble because How do I change my subscription plan? Please help me.,Subscription,High
+657,"Please help me, please provide an update on my delivery What should I do?",Delivery,Medium
+658,I am having trouble because why was i charged for the subscription? What should I do?,Subscription,Low
+659,Can you help? Can you tell me the delivery status?,Delivery,High
+660,I am having trouble because money was deducted but my order was not confirmed Please resolve this.,Payment Issue,Medium
+661,I need support with this: i cannot reset my password Please resolve this.,Account Issue,Low
+662,Could you please help? i have not received my refund yet,Refund,Medium
+663,Can you help? the payment page shows an error Please help me.,Payment Issue,High
+664,I was charged twice for the same order I need an update.,Payment Issue,Medium
+665,I am having trouble because I am seeing an error message Please help me.,Technical Issue,High
+666,I need support with this: I cannot complete the checkout because of an error Please help me.,Technical Issue,Medium
+667,Could you please help? When will the refund be credited? Please resolve this.,Refund,High
+668,I need assistance because I need to update my order details I need an update.,Order Issue,Medium
+669,I am contacting support because My shipment has not arrived yet I need an update.,Delivery,High
+670,I am contacting support because the payment was rejected even though i have enough balance,Payment Issue,High
+671,I need assistance because My subscription was cancelled unexpectedly This is urgent.,Subscription,High
+672,"Please help me, I cannot reset my password What should I do?",Account Issue,High
+673,Can I change my order before it ships? This is urgent.,Order Issue,Low
+674,I need support with this: Where is my order? Can you check this for me?,Delivery,High
+675,My subscription payment failed Please resolve this.,Subscription,Low
+676,I am having trouble because please process my refund,Refund,High
+677,Can you help? i want to cancel my subscription Please help me.,Subscription,Medium
+678,I am contacting support because my subscription payment failed Please help me.,Subscription,Medium
+679,Can you help? When will the refund be credited? Please help me.,Refund,Medium
+680,I am unable to sign in Please help me.,Account Issue,Medium
+681,"Please help me, i want to track my package I need an update.",Delivery,Medium
+682,Could you please help? My account is locked Please let me know what I need to do.,Account Issue,Medium
+683,Can you help? I want a refund for my order,Refund,High
+684,My payment failed while placing the order I need an update.,Payment Issue,High
+685,"Please help me, My card payment was declined This is urgent.",Payment Issue,Medium
+686,"Please help me, My login is not working Please help me.",Account Issue,High
+687,I need support with this: My package is delayed This is urgent.,Delivery,Low
+688,I am contacting support because When will my order be delivered? Please let me know what I need to do.,Delivery,Medium
+689,I need support with this: I placed the wrong order and need help This is urgent.,Order Issue,Low
+690,I need support with this: My subscription was cancelled unexpectedly Please help me.,Subscription,High
+691,I am having trouble because Why did my online payment fail?,Payment Issue,High
+692,I am having trouble because The delivery is taking too long What should I do?,Delivery,Medium
+693,"Please help me, The payment was rejected even though I have enough balance Please help me.",Payment Issue,High
+694,Can you help? the mobile app keeps freezing This is urgent.,Technical Issue,Medium
+695,"Please help me, the application is crashing when i open it This is urgent.",Technical Issue,Medium
+696,Can you help? Why was I charged for the subscription? Please let me know what I need to do.,Subscription,Low
+697,I need support with this: I have not received my refund yet I need an update.,Refund,Medium
+698,Could you please help? Can you tell me the delivery status? Can you check this for me?,Delivery,High
+699,I am contacting support because Please provide an update on my delivery Please help me.,Delivery,Low
+700,The expected delivery date has passed,Delivery,Medium
+701,I need assistance because My refund is still pending This is urgent.,Refund,Medium
+702,Can you help? Can I change my order before it ships? This is urgent.,Order Issue,Medium
+703,I need support with this: I forgot my account credentials Please let me know what I need to do.,Account Issue,High
+704,Could you please help? I need help with a failed payment Please resolve this.,Payment Issue,Medium
+705,I am having trouble because I cannot reset my password Can you check this for me?,Account Issue,Medium
+706,Could you please help? I want a refund for my order Can you check this for me?,Refund,Medium
+707,I am contacting support because money was deducted but my order was not confirmed I need an update.,Payment Issue,High
+708,My card payment was declined I need an update.,Payment Issue,High
+709,I am contacting support because How can I change my password? What should I do?,Account Issue,Medium
+710,"Please help me, The payment page shows an error Please help me.",Payment Issue,Medium
+711,I need assistance because Can I change my order before it ships? Can you check this for me?,Order Issue,Low
+712,"Please help me, Why did my online payment fail? Please let me know what I need to do.",Payment Issue,Medium
+713,Can you help? The payment was rejected even though I have enough balance Can you check this for me?,Payment Issue,Medium
+714,Can you help? I want to modify my order Please help me.,Order Issue,High
+715,The expected delivery date has passed I need an update.,Delivery,Low
+716,I am contacting support because my card payment was declined This is urgent.,Payment Issue,Medium
+717,Could you please help? I want to track my package Can you check this for me?,Delivery,Low
+718,The delivery is taking too long Please let me know what I need to do.,Delivery,High
+719,My payment is still pending Please let me know what I need to do.,Payment Issue,High
+720,"Please help me, The mobile app keeps freezing Please resolve this.",Technical Issue,High
+721,Could you please help? Please process my refund,Refund,High
+722,I am having trouble because I am seeing an error message Please help me.,Technical Issue,Medium
+723,"Please help me, The website is not working I need an update.",Technical Issue,Medium
+724,I need assistance because I received only part of my order,Order Issue,Medium
+725,I need help with my subscription,Subscription,Low
+726,I need assistance because When will the refund be credited? Can you check this for me?,Refund,High
+727,Could you please help? The app stopped responding Can you check this for me?,Technical Issue,Medium
+728,I am contacting support because The product is damaged and I want a refund Please resolve this.,Refund,High
+729,"Please help me, i returned the product but have not received my money I need an update.",Refund,High
+730,I am having trouble because I need to update my order details Please let me know what I need to do.,Order Issue,Medium
+731,I need support with this: The website keeps crashing Please help me.,Technical Issue,Medium
+732,Can you help? My package has not arrived Please let me know what I need to do.,Delivery,High
+733,I need support with this: i am seeing an error message Please let me know what I need to do.,Technical Issue,High
+734,"Please help me, My card payment was declined Please help me.",Payment Issue,High
+735,I need assistance because The item in my order is incorrect Please let me know what I need to do.,Order Issue,Low
+736,I am having trouble because my card payment was declined This is urgent.,Payment Issue,Medium
+737,I am having trouble because Can you tell me the delivery status? What should I do?,Delivery,Medium
+738,"Please help me, I need to update my order details Please resolve this.",Order Issue,Medium
+739,I am contacting support because Money was deducted but my order was not confirmed This is urgent.,Payment Issue,High
+740,Can you help? i cannot reset my password Please let me know what I need to do.,Account Issue,Medium
+741,I need assistance because When will my order be delivered? Please help me.,Delivery,High
+742,"Please help me, how can i change my password? Please resolve this.",Account Issue,Low
+743,I am contacting support because When will the refund be credited? Please let me know what I need to do.,Refund,High
+744,I am having trouble because i want to renew my subscription,Subscription,High
+745,Could you please help? My package has not arrived Please resolve this.,Delivery,High
+746,I need assistance because why did my online payment fail? This is urgent.,Payment Issue,Medium
+747,I am having trouble because I want to renew my subscription What should I do?,Subscription,Low
+748,My card payment was declined What should I do?,Payment Issue,Medium
+749,I was charged but the transaction failed,Payment Issue,Medium
+750,I need support with this: Can you tell me the delivery status? Please help me.,Delivery,Medium
+751,Could you please help? The item in my order is incorrect Please let me know what I need to do.,Order Issue,Low
+752,"Please help me, My payment is still pending This is urgent.",Payment Issue,Medium
+753,Could you please help? The application is very slow I need an update.,Technical Issue,High
+754,Could you please help? I was charged twice for the same order I need an update.,Payment Issue,Medium
+755,"Please help me, I returned the product but have not received my money",Refund,Medium
+756,Can you help? the payment page shows an error I need an update.,Payment Issue,Medium
+757,"Please help me, can i change my order before it ships? Can you check this for me?",Order Issue,Medium
+758,I need support with this: i want to cancel my order,Order Issue,Medium
+759,Can you help? The application is very slow Can you check this for me?,Technical Issue,High
+760,I am having trouble because I was charged but the transaction failed Can you check this for me?,Payment Issue,High
+761,I need support with this: the payment was rejected even though i have enough balance What should I do?,Payment Issue,Medium
+762,I need assistance because The item in my order is incorrect What should I do?,Order Issue,Medium
+763,Could you please help? I need help with a failed payment Please let me know what I need to do.,Payment Issue,High
+764,Could you please help? i cannot complete the checkout because of an error Please resolve this.,Technical Issue,High
+765,Why did my online payment fail? This is urgent.,Payment Issue,High
+766,My subscription payment failed What should I do?,Subscription,Low
+767,I need assistance because I have not received my refund yet,Refund,High
+768,Can you help? where is my order? Please help me.,Delivery,High
+769,"Please help me, how long will my refund take? Can you check this for me?",Refund,High
+770,I need support with this: I need help with a failed payment Please let me know what I need to do.,Payment Issue,Medium
+771,I am contacting support because i forgot my password This is urgent.,Account Issue,Medium
+772,I am unable to sign in This is urgent.,Account Issue,Low
+773,Can you help? how long will my refund take? What should I do?,Refund,Medium
+774,Can you help? The expected delivery date has passed I need an update.,Delivery,High
+775,I cannot reset my password Please help me.,Account Issue,Low
+776,Could you please help? my payment failed while placing the order What should I do?,Payment Issue,Medium
+777,I am having trouble because i cannot complete the checkout because of an error Can you check this for me?,Technical Issue,Medium
+778,I need support with this: My shipment has not arrived yet Please help me.,Delivery,Medium
+779,I need assistance because I received only part of my order Please help me.,Order Issue,Low
+780,I am having trouble because The expected delivery date has passed This is urgent.,Delivery,High
+781,I need support with this: can i downgrade my subscription? Please help me.,Subscription,Medium
+782,I need assistance because the payment was rejected even though i have enough balance What should I do?,Payment Issue,Medium
+783,I need assistance because I cannot reset my password Can you check this for me?,Account Issue,Medium
+784,I am contacting support because my payment failed while placing the order I need an update.,Payment Issue,Medium
+785,I am contacting support because why was i charged for the subscription?,Subscription,Low
+786,Could you please help? I need to update my order details Please let me know what I need to do.,Order Issue,High
+787,I need assistance because Why was I charged for the subscription? This is urgent.,Subscription,Medium
+788,I need assistance because I am unable to sign in Please let me know what I need to do.,Account Issue,High
+789,I need assistance because my subscription was cancelled unexpectedly,Subscription,Medium
+790,"Please help me, I was charged for my subscription Please let me know what I need to do.",Subscription,Low
+791,I am having trouble because The website is not working Please let me know what I need to do.,Technical Issue,High
+792,"Please help me, Where is my order? Please let me know what I need to do.",Delivery,High
+793,"Please help me, My package has not arrived",Delivery,Medium
+794,Can you help? Please help me recover my account,Account Issue,Medium
+795,Could you please help? my account is locked This is urgent.,Account Issue,High
+796,I am contacting support because the app stopped responding Please resolve this.,Technical Issue,High
+797,Could you please help? My login is not working,Account Issue,High
+798,Could you please help? I cannot log into my account What should I do?,Account Issue,High
+799,Could you please help? Can you tell me the delivery status? Can you check this for me?,Delivery,Medium
+800,I am having trouble because i was charged but the transaction failed I need an update.,Payment Issue,High
+801,"Please help me, The application is crashing when I open it Please let me know what I need to do.",Technical Issue,High
+802,Could you please help? I want to track my package Please help me.,Delivery,Medium
+803,I need support with this: Please help me recover my account This is urgent.,Account Issue,Medium
+804,I need support with this: The website keeps crashing I need an update.,Technical Issue,High
+805,The page is not loading Please resolve this.,Technical Issue,Medium
+806,I am having trouble because my card payment was declined Can you check this for me?,Payment Issue,High
+807,Can you help? i was charged twice for the same order What should I do?,Payment Issue,Medium
+808,I need assistance because My subscription was cancelled unexpectedly What should I do?,Subscription,Low
+809,My card payment was declined Please resolve this.,Payment Issue,High
+810,I am contacting support because My package is delayed I need an update.,Delivery,Low
+811,Can you help? The website is not working Please let me know what I need to do.,Technical Issue,High
+812,I need assistance because When will the refund be credited? This is urgent.,Refund,Medium
+813,How long will my refund take? What should I do?,Refund,High
+814,Could you please help? Can you tell me the delivery status? This is urgent.,Delivery,Low
+815,Can you help? where is my order? Please help me.,Delivery,Medium
+816,I am contacting support because I placed the wrong order and need help Can you check this for me?,Order Issue,High
+817,"Please help me, The website is not working Please help me.",Technical Issue,Medium
+818,I need to update my order details Please help me.,Order Issue,Medium
+819,I am having trouble because i want to cancel my order Please help me.,Order Issue,Low
+820,I am having trouble because I was charged but the transaction failed I need an update.,Payment Issue,Medium
+821,"Please help me, The payment was rejected even though I have enough balance I need an update.",Payment Issue,Medium
+822,Could you please help? I want to renew my subscription Please help me.,Subscription,Low
+823,Could you please help? the payment page shows an error I need an update.,Payment Issue,Medium
+824,I am contacting support because please process my refund What should I do?,Refund,High
+825,I need assistance because I placed the wrong order and need help This is urgent.,Order Issue,Low
+826,I want to track my package I need an update.,Delivery,High
+827,"Please help me, i want to cancel my subscription Please resolve this.",Subscription,High
+828,I need assistance because I cannot complete the checkout because of an error Please resolve this.,Technical Issue,High
+829,Can you help? i cannot reset my password What should I do?,Account Issue,High
+830,I am having trouble because My package is delayed Please help me.,Delivery,Low
+831,"Please help me, i want a refund for my order I need an update.",Refund,High
+832,I need support with this: my shipment has not arrived yet Please let me know what I need to do.,Delivery,High
+833,Could you please help? The application is very slow Please resolve this.,Technical Issue,High
+834,Could you please help? the app stopped responding I need an update.,Technical Issue,Medium
+835,The website is not working I need an update.,Technical Issue,Medium
+836,I need support with this: my account is locked This is urgent.,Account Issue,Low
+837,I need support with this: I need help with my subscription Please help me.,Subscription,High
+838,Can you help? I want to cancel my order Please resolve this.,Order Issue,Medium
+839,I need support with this: The website is not working This is urgent.,Technical Issue,High
+840,I am having trouble because I was charged but the transaction failed Please let me know what I need to do.,Payment Issue,High
+841,I need assistance because when will the refund be credited? I need an update.,Refund,High
+842,I need support with this: i want to track my package Can you check this for me?,Delivery,Medium
+843,I am having trouble because please provide an update on my delivery Please resolve this.,Delivery,High
+844,"Please help me, Can I change my order before it ships? Please let me know what I need to do.",Order Issue,Medium
+845,My package has not arrived,Delivery,Low
+846,I need support with this: The page is not loading Please help me.,Technical Issue,High
+847,My payment is still pending I need an update.,Payment Issue,High
+848,I need support with this: I am unable to sign in Can you check this for me?,Account Issue,Low
+849,I am having trouble because The expected delivery date has passed,Delivery,High
+850,I am having trouble because I placed the wrong order and need help I need an update.,Order Issue,Low
+851,I need support with this: My login is not working What should I do?,Account Issue,Low
+852,"Please help me, i forgot my account credentials Please resolve this.",Account Issue,Medium
+853,I am having trouble because I need help with a failed payment Please let me know what I need to do.,Payment Issue,Medium
+854,I am contacting support because my subscription was cancelled unexpectedly I need an update.,Subscription,Medium
+855,I am contacting support because i forgot my account credentials Please help me.,Account Issue,Low
+856,I need assistance because The application is very slow Can you check this for me?,Technical Issue,High
+857,I need support with this: the payment page shows an error Please let me know what I need to do.,Payment Issue,Medium
+858,I need assistance because i cannot complete the checkout because of an error I need an update.,Technical Issue,Medium
+859,"Please help me, my login is not working What should I do?",Account Issue,High
+860,I need help with my subscription Please let me know what I need to do.,Subscription,High
+861,"Please help me, why was i charged for the subscription? I need an update.",Subscription,Medium
+862,I need assistance because Can I change my order before it ships? What should I do?,Order Issue,High
+863,My card payment was declined Can you check this for me?,Payment Issue,High
+864,I need support with this: how long will my refund take?,Refund,Medium
+865,Could you please help? the item in my order is incorrect What should I do?,Order Issue,High
+866,I am contacting support because Please provide an update on my delivery What should I do?,Delivery,High
+867,I need assistance because My account is locked Please resolve this.,Account Issue,Medium
+868,I need support with this: my refund is still pending Please resolve this.,Refund,Medium
+869,I need assistance because My login is not working,Account Issue,Low
+870,I am contacting support because i received the wrong product What should I do?,Order Issue,Low
+871,I need assistance because The application is very slow,Technical Issue,Medium
+872,Can you help? Please process my refund I need an update.,Refund,High
+873,"Please help me, Can I downgrade my subscription? Please help me.",Subscription,Medium
+874,I am having trouble because the application is very slow Please let me know what I need to do.,Technical Issue,High
+875,I need support with this: i need to request a refund,Refund,Medium
+876,I need assistance because Please provide an update on my delivery Please resolve this.,Delivery,Low
+877,I am having trouble because Can I downgrade my subscription? What should I do?,Subscription,Medium
+878,I need assistance because the payment page shows an error Please help me.,Payment Issue,Medium
+879,I need support with this: i need to request a refund Please resolve this.,Refund,High
+880,I need support with this: the website is not working Please let me know what I need to do.,Technical Issue,Medium
+881,I need support with this: My shipment has not arrived yet Please let me know what I need to do.,Delivery,Medium
+882,I was charged for my subscription Please help me.,Subscription,High
+883,"Please help me, can you tell me the delivery status? What should I do?",Delivery,High
+884,I want to track my package Please help me.,Delivery,Medium
+885,I need assistance because My refund is still pending Please let me know what I need to do.,Refund,High
+886,Could you please help? My payment failed while placing the order Can you check this for me?,Payment Issue,Medium
+887,"Please help me, i want to cancel my subscription Please resolve this.",Subscription,Medium
+888,I need assistance because The expected delivery date has passed This is urgent.,Delivery,Low
+889,Can you help? I want to modify my order I need an update.,Order Issue,High
+890,I need support with this: The application is very slow Can you check this for me?,Technical Issue,High
+891,I need support with this: i cannot complete the checkout because of an error Please let me know what I need to do.,Technical Issue,High
+892,Can you help? i received the wrong product,Order Issue,High
+893,I need help with my subscription Please help me.,Subscription,Medium
+894,I am having trouble because I need help with a failed payment Please let me know what I need to do.,Payment Issue,High
+895,Can you help? My order contains the wrong item What should I do?,Order Issue,Medium
+896,Could you please help? My shipment has not arrived yet,Delivery,Low
+897,Can you help? the app stopped responding What should I do?,Technical Issue,High
+898,My login is not working I need an update.,Account Issue,Low
+899,I need assistance because I want to track my package Please resolve this.,Delivery,Medium
+900,"Please help me, When will my order be delivered? This is urgent.",Delivery,Medium
+901,Could you please help? I am unable to sign in Please help me.,Account Issue,High
+902,Can i change my order before it ships? Please resolve this.,Order Issue,High
+903,I need support with this: i get an error when uploading a file I need an update.,Technical Issue,Medium
+904,I am having trouble because The website keeps crashing Please resolve this.,Technical Issue,High
+905,"Please help me, I forgot my account credentials Can you check this for me?",Account Issue,Low
+906,The item in my order is incorrect What should I do?,Order Issue,Low
+907,I am contacting support because i get an error when uploading a file This is urgent.,Technical Issue,High
+908,I need assistance because I cannot log into my account This is urgent.,Account Issue,High
+909,I am having trouble because The application is very slow What should I do?,Technical Issue,Medium
+910,Could you please help? My order contains the wrong item This is urgent.,Order Issue,Medium
+911,I need support with this: the payment page shows an error I need an update.,Payment Issue,Medium
+912,Please process my refund This is urgent.,Refund,Medium
+913,I am contacting support because The application is very slow I need an update.,Technical Issue,High
+914,I am unable to sign in Please help me.,Account Issue,High
+915,I am having trouble because i cannot complete the checkout because of an error,Technical Issue,Medium
+916,I need support with this: My subscription was cancelled unexpectedly I need an update.,Subscription,Low
+917,Can you help? When will the refund be credited? I need an update.,Refund,High
+918,I returned the product but have not received my money Please help me.,Refund,Medium
+919,The application is crashing when I open it,Technical Issue,Medium
+920,I am contacting support because I forgot my password What should I do?,Account Issue,High
+921,I am having trouble because My subscription was cancelled unexpectedly Can you check this for me?,Subscription,High
+922,Can you help? please help me recover my account Please let me know what I need to do.,Account Issue,Medium
+923,Can you help? The mobile app keeps freezing This is urgent.,Technical Issue,High
+924,I need assistance because My subscription was cancelled unexpectedly Please let me know what I need to do.,Subscription,Medium
+925,I need assistance because my payment failed while placing the order Please help me.,Payment Issue,Medium
+926,I need support with this: I need to update my order details,Order Issue,High
+927,Why did my online payment fail? I need an update.,Payment Issue,Medium
+928,"Please help me, my payment failed while placing the order",Payment Issue,Medium
+929,Can you help? when will my order be delivered?,Delivery,Low
+930,Can you help? I received the wrong product Please resolve this.,Order Issue,Low
+931,I need support with this: The website is not working Please resolve this.,Technical Issue,High
+932,I am contacting support because When will my order be delivered? Please resolve this.,Delivery,Medium
+933,I want to cancel my subscription Please help me.,Subscription,High
+934,Could you please help? I returned the product but have not received my money I need an update.,Refund,High
+935,Can you help? I want to cancel my order What should I do?,Order Issue,High
+936,I need support with this: the payment page shows an error Please resolve this.,Payment Issue,Medium
+937,I need support with this: I want to cancel my subscription This is urgent.,Subscription,Low
+938,Can you help? I need to update my order details Please let me know what I need to do.,Order Issue,High
+939,"Please help me, The website is not working I need an update.",Technical Issue,High
+940,I need support with this: The delivery is taking too long This is urgent.,Delivery,High
+941,I need assistance because i cannot reset my password Please let me know what I need to do.,Account Issue,Medium
+942,I need support with this: i cannot log into my account What should I do?,Account Issue,Medium
+943,I am contacting support because The refund amount is missing from my account I need an update.,Refund,Medium
+944,I am contacting support because i cannot complete the checkout because of an error I need an update.,Technical Issue,High
+945,I need assistance because I need to request a refund This is urgent.,Refund,High
+946,I am having trouble because i want to cancel my subscription,Subscription,High
+947,"Please help me, i cannot reset my password Please let me know what I need to do.",Account Issue,Medium
+948,I need support with this: I forgot my account credentials Can you check this for me?,Account Issue,Low
+949,My card payment was declined I need an update.,Payment Issue,High
+950,"Please help me, My order was cancelled unexpectedly Please let me know what I need to do.",Order Issue,Low
+951,Could you please help? I am unable to sign in This is urgent.,Account Issue,Medium
+952,"Please help me, I want to cancel my order Please let me know what I need to do.",Order Issue,Low
+953,I am having trouble because The expected delivery date has passed Please let me know what I need to do.,Delivery,Low
+954,I need support with this: Can I downgrade my subscription? Please let me know what I need to do.,Subscription,High
+955,"Please help me, how long will my refund take? Please let me know what I need to do.",Refund,High
+956,"Please help me, I am seeing an error message Please let me know what I need to do.",Technical Issue,Medium
+957,I need support with this: why did my online payment fail?,Payment Issue,High
+958,I need support with this: I returned the product but have not received my money This is urgent.,Refund,High
+959,I need assistance because I want to cancel my subscription This is urgent.,Subscription,High
+960,I need support with this: I am seeing an error message Please help me.,Technical Issue,Medium
+961,I need assistance because The page is not loading What should I do?,Technical Issue,High
+962,"Please help me, I was charged twice for the same order Can you check this for me?",Payment Issue,Medium
+963,I have not received my refund yet What should I do?,Refund,Medium
+964,Could you please help? The payment was rejected even though I have enough balance This is urgent.,Payment Issue,Medium
+965,Can you help? money was deducted but my order was not confirmed Please let me know what I need to do.,Payment Issue,High
+966,I am having trouble because Please process my refund Please resolve this.,Refund,Medium
+967,Could you please help? My shipment has not arrived yet What should I do?,Delivery,Medium
+968,My package has not arrived Can you check this for me?,Delivery,High
+969,I need support with this: the payment was rejected even though i have enough balance I need an update.,Payment Issue,Medium
+970,Can you help? I want to cancel my subscription Please let me know what I need to do.,Subscription,Low
+971,The payment page shows an error Please let me know what I need to do.,Payment Issue,Medium
+972,Can you help? Where is my order?,Delivery,High
+973,I need support with this: Why was I charged for the subscription? Please help me.,Subscription,Low
+974,I need support with this: The delivery is taking too long Please help me.,Delivery,Medium
+975,I forgot my password Please resolve this.,Account Issue,Low
+976,I am contacting support because I forgot my password This is urgent.,Account Issue,Medium
+977,I am having trouble because My payment is still pending Can you check this for me?,Payment Issue,Medium
+978,I am contacting support because My shipment has not arrived yet What should I do?,Delivery,High
+979,I need support with this: i was charged twice for the same order,Payment Issue,Medium
+980,Could you please help? I cannot log into my account This is urgent.,Account Issue,Medium
+981,My order was cancelled unexpectedly What should I do?,Order Issue,Low
+982,"Please help me, I am unable to sign in Can you check this for me?",Account Issue,Low
+983,I am contacting support because How do I change my subscription plan? Please resolve this.,Subscription,High
+984,I am contacting support because The application is very slow Please let me know what I need to do.,Technical Issue,Medium
+985,I am having trouble because I have not received my refund yet Please resolve this.,Refund,Medium
+986,I am contacting support because I cannot access my account,Account Issue,Low
+987,I need assistance because Can you tell me the delivery status? Please help me.,Delivery,Low
+988,I am having trouble because My login is not working Please let me know what I need to do.,Account Issue,High
+989,How long will my refund take? What should I do?,Refund,High
+990,How do i change my subscription plan?,Subscription,High
+991,"Please help me, I cannot reset my password Please help me.",Account Issue,High
+992,Could you please help? i forgot my account credentials I need an update.,Account Issue,High
+993,I am having trouble because My payment is still pending Can you check this for me?,Payment Issue,Medium
+994,I need assistance because the payment was rejected even though i have enough balance What should I do?,Payment Issue,High
+995,I am having trouble because when will the refund be credited? This is urgent.,Refund,High
+996,"Please help me, My payment is still pending Please resolve this.",Payment Issue,High
+997,I need support with this: Can I change my order before it ships? Please let me know what I need to do.,Order Issue,Medium
+998,My subscription was cancelled unexpectedly I need an update.,Subscription,Medium
+999,I am having trouble because i want to cancel my order Please let me know what I need to do.,Order Issue,Low
+1000,Could you please help? my subscription payment failed What should I do?,Subscription,High
+1001,I need assistance because I was charged but the transaction failed,Payment Issue,High
+1002,Can you help? My payment is still pending I need an update.,Payment Issue,Medium
+1003,I need support with this: how long will my refund take? Please let me know what I need to do.,Refund,High
+1004,I am contacting support because I need help with a failed payment This is urgent.,Payment Issue,Medium
+1005,Can you help? How long will my refund take? Please let me know what I need to do.,Refund,High
+1006,Could you please help? i get an error when uploading a file Please resolve this.,Technical Issue,Medium
+1007,I need assistance because The application is very slow Please resolve this.,Technical Issue,Medium
+1008,I need support with this: I want to cancel my order Can you check this for me?,Order Issue,High
+1009,I need support with this: i returned the product but have not received my money Can you check this for me?,Refund,Medium
+1010,I need support with this: Can I change my order before it ships? Can you check this for me?,Order Issue,High
+1011,"Please help me, I need help with a failed payment I need an update.",Payment Issue,Medium
+1012,"Please help me, The application is crashing when I open it Please let me know what I need to do.",Technical Issue,High
+1013,Can you help? The product is damaged and I want a refund,Refund,Medium
+1014,I need support with this: i want to track my package Please let me know what I need to do.,Delivery,Low
+1015,I need assistance because i want a refund for my order Please let me know what I need to do.,Refund,Medium
+1016,I need assistance because can you tell me the delivery status? Please resolve this.,Delivery,Low
+1017,Can you help? I cannot reset my password Please let me know what I need to do.,Account Issue,Low
+1018,Could you please help? When will my order be delivered? This is urgent.,Delivery,High
+1019,"Please help me, My payment is still pending I need an update.",Payment Issue,High
+1020,I need support with this: Money was deducted but my order was not confirmed What should I do?,Payment Issue,High
+1021,I need support with this: The payment was rejected even though I have enough balance Please help me.,Payment Issue,High
+1022,The website is not working What should I do?,Technical Issue,High
+1023,Could you please help? My login is not working This is urgent.,Account Issue,Medium
+1024,I need assistance because The application is crashing when I open it Please let me know what I need to do.,Technical Issue,High
+1025,I am contacting support because i want to modify my order Can you check this for me?,Order Issue,Medium
+1026,Can you help? I need help with a failed payment Can you check this for me?,Payment Issue,Medium
+1027,I need support with this: I have not received my refund yet,Refund,High
+1028,I need assistance because The item in my order is incorrect This is urgent.,Order Issue,Medium
+1029,Could you please help? Can I change my order before it ships? Please let me know what I need to do.,Order Issue,High
+1030,I need assistance because i want to cancel my order,Order Issue,High
+1031,I am contacting support because I need to update my order details I need an update.,Order Issue,High
+1032,I get an error when uploading a file Can you check this for me?,Technical Issue,Medium
+1033,Can you help? Can you tell me the delivery status? Please help me.,Delivery,Low
+1034,I need assistance because can you tell me the delivery status? Please let me know what I need to do.,Delivery,Low
+1035,I need assistance because where is my order?,Delivery,High
+1036,I am having trouble because I want a refund for my order Can you check this for me?,Refund,Medium
+1037,Could you please help? I forgot my password Please resolve this.,Account Issue,High
+1038,"Please help me, I was charged but the transaction failed This is urgent.",Payment Issue,Medium
+1039,Could you please help? the product is damaged and i want a refund,Refund,Medium
+1040,I am having trouble because I am unable to sign in I need an update.,Account Issue,Medium
+1041,"Please help me, My card payment was declined Can you check this for me?",Payment Issue,High
+1042,"Please help me, How do I change my subscription plan? Please resolve this.",Subscription,Low
+1043,I am having trouble because I placed the wrong order and need help This is urgent.,Order Issue,High
+1044,I need assistance because The application is very slow Please help me.,Technical Issue,High
+1045,Could you please help? When will the refund be credited? This is urgent.,Refund,Medium
+1046,I need assistance because My payment is still pending,Payment Issue,Medium
+1047,I am contacting support because Where is my order? What should I do?,Delivery,Low
+1048,I need support with this: I am seeing an error message This is urgent.,Technical Issue,Medium
+1049,I need support with this: I was charged for my subscription Please resolve this.,Subscription,Low
+1050,I forgot my account credentials I need an update.,Account Issue,Low
+1051,I am contacting support because My card payment was declined What should I do?,Payment Issue,Medium
+1052,I want to track my package What should I do?,Delivery,Medium
+1053,I am contacting support because Why was I charged for the subscription? This is urgent.,Subscription,High
+1054,I need support with this: The application is very slow Can you check this for me?,Technical Issue,Medium
+1055,I am contacting support because I received the wrong product Can you check this for me?,Order Issue,Medium
+1056,Can you tell me the delivery status? Please help me.,Delivery,Medium
+1057,Can you help? i was charged twice for the same order This is urgent.,Payment Issue,Medium
+1058,Could you please help? i received only part of my order This is urgent.,Order Issue,Low
+1059,I need assistance because i have not received my refund yet Can you check this for me?,Refund,High
+1060,Can you help? My package is delayed I need an update.,Delivery,Medium
+1061,Can you help? when will my order be delivered? What should I do?,Delivery,Medium
+1062,"Please help me, My subscription payment failed Can you check this for me?",Subscription,High
+1063,"Please help me, My package has not arrived Please let me know what I need to do.",Delivery,Medium
+1064,I am contacting support because i cannot log into my account,Account Issue,High
+1065,Can you help? can you tell me the delivery status? Please resolve this.,Delivery,Low
+1066,Could you please help? When will the refund be credited? I need an update.,Refund,Medium
+1067,I am contacting support because My payment failed while placing the order Please resolve this.,Payment Issue,Medium
+1068,I am contacting support because my login is not working Please help me.,Account Issue,High
+1069,I want to renew my subscription What should I do?,Subscription,Low
+1070,I need assistance because The item in my order is incorrect Can you check this for me?,Order Issue,Low
+1071,I have not received my refund yet I need an update.,Refund,High
+1072,I need support with this: i want to renew my subscription I need an update.,Subscription,High
+1073,I am contacting support because I need help with a failed payment Please let me know what I need to do.,Payment Issue,High
+1074,My shipment has not arrived yet Can you check this for me?,Delivery,Medium
+1075,I need support with this: The page is not loading Please resolve this.,Technical Issue,Medium
+1076,My subscription payment failed I need an update.,Subscription,Low
+1077,Can you help? The expected delivery date has passed Please let me know what I need to do.,Delivery,High
+1078,I need assistance because the refund amount is missing from my account,Refund,High
+1079,Could you please help? I was charged twice for the same order Can you check this for me?,Payment Issue,High
+1080,I am contacting support because Please help me recover my account This is urgent.,Account Issue,Medium
+1081,"Please help me, I cannot reset my password Please resolve this.",Account Issue,Low
+1082,I am having trouble because i placed the wrong order and need help Please let me know what I need to do.,Order Issue,High
+1083,I am having trouble because when will my order be delivered? I need an update.,Delivery,Medium
+1084,I need assistance because I cannot complete the checkout because of an error This is urgent.,Technical Issue,High
+1085,I am contacting support because how do i change my subscription plan? What should I do?,Subscription,Low
+1086,Could you please help? My package has not arrived This is urgent.,Delivery,High
+1087,I am having trouble because can you tell me the delivery status? This is urgent.,Delivery,High
+1088,The payment page shows an error Please resolve this.,Payment Issue,High
+1089,I received the wrong product This is urgent.,Order Issue,Low
+1090,Could you please help? the mobile app keeps freezing Please resolve this.,Technical Issue,Medium
+1091,Could you please help? Please help me recover my account This is urgent.,Account Issue,Medium
+1092,I need assistance because my account is locked I need an update.,Account Issue,Low
+1093,I am contacting support because why was i charged for the subscription? Please let me know what I need to do.,Subscription,Low
+1094,"Please help me, can i change my order before it ships?",Order Issue,Low
+1095,I need assistance because I returned the product but have not received my money Please help me.,Refund,Medium
+1096,Can you help? I received the wrong product Please help me.,Order Issue,High
+1097,I need assistance because i want to track my package Can you check this for me?,Delivery,Low
+1098,I am having trouble because Can I downgrade my subscription? What should I do?,Subscription,Medium
+1099,Can you help? I want to track my package Please resolve this.,Delivery,High
+1100,Could you please help? I want to cancel my subscription What should I do?,Subscription,Medium
+1101,I am having trouble because i want a refund for my order Can you check this for me?,Refund,Medium
+1102,"Please help me, my payment is still pending Please help me.",Payment Issue,Medium
+1103,Could you please help? How can I change my password? This is urgent.,Account Issue,Medium
+1104,I am having trouble because I was charged for my subscription I need an update.,Subscription,Low
+1105,I cannot log into my account Can you check this for me?,Account Issue,High
+1106,I am contacting support because I am unable to sign in Can you check this for me?,Account Issue,Low
+1107,Could you please help? I returned the product but have not received my money Please resolve this.,Refund,Medium
+1108,"Please help me, The payment was rejected even though I have enough balance This is urgent.",Payment Issue,High
+1109,I need assistance because i want to cancel my order Can you check this for me?,Order Issue,High
+1110,I need assistance because The mobile app keeps freezing I need an update.,Technical Issue,High
+1111,Could you please help? i want to modify my order This is urgent.,Order Issue,Low
+1112,I am having trouble because I want to cancel my subscription Can you check this for me?,Subscription,High
+1113,"Please help me, why did my online payment fail? I need an update.",Payment Issue,Medium
+1114,I need support with this: Can I change my order before it ships? I need an update.,Order Issue,Low
+1115,Can you help? the item in my order is incorrect Please help me.,Order Issue,Medium
+1116,The item in my order is incorrect This is urgent.,Order Issue,High
+1117,I need support with this: my package has not arrived Can you check this for me?,Delivery,Low
+1118,Could you please help? I need help with my subscription Please resolve this.,Subscription,Low
+1119,I am having trouble because my order contains the wrong item What should I do?,Order Issue,Low
+1120,I am having trouble because The payment was rejected even though I have enough balance What should I do?,Payment Issue,High
+1121,"Please help me, Can I change my order before it ships?",Order Issue,High
+1122,I am contacting support because How can I upgrade my subscription? What should I do?,Subscription,Low
+1123,I need assistance because how can i upgrade my subscription? Please help me.,Subscription,Low
+1124,I need assistance because My package is delayed Please help me.,Delivery,High
+1125,The product is damaged and I want a refund Please resolve this.,Refund,High
+1126,Could you please help? My package is delayed Please let me know what I need to do.,Delivery,Medium
+1127,"Please help me, I get an error when uploading a file Please help me.",Technical Issue,Medium
+1128,I am having trouble because My refund is still pending Please let me know what I need to do.,Refund,Medium
+1129,"Please help me, i returned the product but have not received my money Please resolve this.",Refund,Medium
+1130,I need support with this: I cannot complete the checkout because of an error Please help me.,Technical Issue,Medium
+1131,Could you please help? i want to track my package Please resolve this.,Delivery,Medium
+1132,"Please help me, The refund amount is missing from my account This is urgent.",Refund,Medium
+1133,Can you help? i have not received my refund yet This is urgent.,Refund,Medium
+1134,I need assistance because the app stopped responding Please help me.,Technical Issue,High
+1135,Can you help? How can I upgrade my subscription? This is urgent.,Subscription,Low
+1136,I am contacting support because the expected delivery date has passed I need an update.,Delivery,Medium
+1137,I am having trouble because Why did my online payment fail? Please let me know what I need to do.,Payment Issue,Medium
+1138,I am contacting support because Please provide an update on my delivery,Delivery,Low
+1139,I need support with this: I need to update my order details I need an update.,Order Issue,Low
+1140,"Please help me, I want to track my package",Delivery,Low
+1141,My payment is still pending This is urgent.,Payment Issue,High
+1142,Can you help? The refund amount is missing from my account Please resolve this.,Refund,High
+1143,I am contacting support because why was i charged for the subscription? Please help me.,Subscription,Medium
+1144,"Please help me, The product is damaged and I want a refund Please resolve this.",Refund,Medium
+1145,I cannot access my account Please resolve this.,Account Issue,Medium
+1146,"Please help me, i am unable to sign in What should I do?",Account Issue,Low
+1147,I need to request a refund What should I do?,Refund,High
+1148,I need assistance because i received the wrong product Please let me know what I need to do.,Order Issue,Low
+1149,I am having trouble because My shipment has not arrived yet Please help me.,Delivery,Low
+1150,Could you please help? When will my order be delivered? What should I do?,Delivery,Low
+1151,"Please help me, My payment failed while placing the order Please resolve this.",Payment Issue,High
+1152,I am having trouble because Can I downgrade my subscription? What should I do?,Subscription,Low
+1153,My order was cancelled unexpectedly Can you check this for me?,Order Issue,Low
+1154,My package is delayed Please resolve this.,Delivery,High
+1155,"Please help me, where is my order? Please help me.",Delivery,Medium
+1156,I was charged for my subscription This is urgent.,Subscription,Medium
+1157,I am having trouble because The payment was rejected even though I have enough balance,Payment Issue,High
+1158,Can you help? the item in my order is incorrect What should I do?,Order Issue,High
+1159,I need support with this: I was charged for my subscription Can you check this for me?,Subscription,High
+1160,I need support with this: Please help me recover my account,Account Issue,Low
+1161,Can you help? the app stopped responding What should I do?,Technical Issue,High
+1162,I am contacting support because my subscription was cancelled unexpectedly Please help me.,Subscription,Medium
+1163,"Please help me, When will the refund be credited? Please let me know what I need to do.",Refund,High
+1164,My order contains the wrong item Please help me.,Order Issue,High
+1165,Could you please help? My order contains the wrong item I need an update.,Order Issue,Low
+1166,I need assistance because When will my order be delivered? What should I do?,Delivery,High
+1167,I need assistance because my subscription was cancelled unexpectedly I need an update.,Subscription,Low
+1168,I forgot my account credentials,Account Issue,Medium
+1169,I need assistance because the application is very slow Please resolve this.,Technical Issue,Medium
+1170,I am having trouble because How can I change my password? What should I do?,Account Issue,Medium
+1171,I need help with a failed payment Please help me.,Payment Issue,Medium
+1172,The application is very slow,Technical Issue,Medium
+1173,I need assistance because When will the refund be credited? Can you check this for me?,Refund,Medium
+1174,I need support with this: the payment page shows an error Please resolve this.,Payment Issue,High
+1175,I need support with this: The website is not working I need an update.,Technical Issue,High
+1176,I am having trouble because my shipment has not arrived yet Please let me know what I need to do.,Delivery,Medium
+1177,Could you please help? i want to track my package Please let me know what I need to do.,Delivery,Medium
+1178,I need support with this: the website is not working Can you check this for me?,Technical Issue,Medium
+1179,I am having trouble because i cannot complete the checkout because of an error Please resolve this.,Technical Issue,Medium
+1180,Could you please help? The product is damaged and I want a refund What should I do?,Refund,High
+1181,I received only part of my order This is urgent.,Order Issue,Low
+1182,Can you help? Please process my refund,Refund,Medium
+1183,I am having trouble because I forgot my account credentials Can you check this for me?,Account Issue,High
+1184,Could you please help? My refund is still pending Please help me.,Refund,High
+1185,I need assistance because I forgot my password What should I do?,Account Issue,Low
+1186,My card payment was declined Please help me.,Payment Issue,High
+1187,Can you help? where is my order? Can you check this for me?,Delivery,Low
+1188,I need support with this: Money was deducted but my order was not confirmed I need an update.,Payment Issue,High
+1189,I am having trouble because i placed the wrong order and need help Can you check this for me?,Order Issue,Medium
+1190,I am contacting support because Please provide an update on my delivery I need an update.,Delivery,Medium
+1191,I want to cancel my subscription,Subscription,High
+1192,"Please help me, please help me recover my account I need an update.",Account Issue,High
+1193,I am having trouble because My order contains the wrong item What should I do?,Order Issue,High
+1194,"Please help me, My refund is still pending What should I do?",Refund,Medium
+1195,Could you please help? The expected delivery date has passed,Delivery,Medium
+1196,Could you please help? I received only part of my order Please help me.,Order Issue,Medium
+1197,Could you please help? i cannot reset my password,Account Issue,Low
+1198,"Please help me, The app stopped responding What should I do?",Technical Issue,Medium
+1199,"Please help me, Can you tell me the delivery status? What should I do?",Delivery,High
+1200,Can you help? I have not received my refund yet Please help me.,Refund,Medium
+1201,"Please help me, the payment was rejected even though i have enough balance This is urgent.",Payment Issue,High
+1202,I received the wrong product Please help me.,Order Issue,Low
+1203,My package has not arrived What should I do?,Delivery,Medium
+1204,I need assistance because I want a refund for my order Please help me.,Refund,Medium
+1205,I am contacting support because When will my order be delivered? This is urgent.,Delivery,High
+1206,"Please help me, how long will my refund take? Please help me.",Refund,Medium
+1207,I need support with this: Why was I charged for the subscription? Please let me know what I need to do.,Subscription,High
+1208,I need assistance because the payment page shows an error Can you check this for me?,Payment Issue,Medium
+1209,Could you please help? money was deducted but my order was not confirmed Please help me.,Payment Issue,High
+1210,I am contacting support because I need help with my subscription Please let me know what I need to do.,Subscription,High
+1211,I am having trouble because my order was cancelled unexpectedly Can you check this for me?,Order Issue,High
+1212,Could you please help? I received the wrong product What should I do?,Order Issue,High
+1213,Can you help? my subscription payment failed I need an update.,Subscription,Low
+1214,"Please help me, I was charged twice for the same order This is urgent.",Payment Issue,Medium
+1215,"Please help me, The application is crashing when I open it Please help me.",Technical Issue,Medium
+1216,I need assistance because I received the wrong product Can you check this for me?,Order Issue,Medium
+1217,I am having trouble because i was charged for my subscription Can you check this for me?,Subscription,High
+1218,The application is crashing when i open it Can you check this for me?,Technical Issue,Medium
+1219,I need support with this: i want a refund for my order What should I do?,Refund,High
+1220,I need assistance because the payment was rejected even though i have enough balance Can you check this for me?,Payment Issue,Medium
+1221,Could you please help? i forgot my password This is urgent.,Account Issue,High
+1222,"Please help me, i returned the product but have not received my money Can you check this for me?",Refund,Medium
+1223,I am contacting support because Why was I charged for the subscription? Can you check this for me?,Subscription,Medium
+1224,I get an error when uploading a file Please let me know what I need to do.,Technical Issue,High
+1225,"Please help me, the website keeps crashing What should I do?",Technical Issue,High
+1226,The refund amount is missing from my account,Refund,High
+1227,I placed the wrong order and need help Can you check this for me?,Order Issue,Low
+1228,I have not received my refund yet Please resolve this.,Refund,High
+1229,Can you help? my payment failed while placing the order Please help me.,Payment Issue,Medium
+1230,I need support with this: The website keeps crashing,Technical Issue,High
+1231,I am contacting support because The payment was rejected even though I have enough balance Please let me know what I need to do.,Payment Issue,High
+1232,I am having trouble because i placed the wrong order and need help Please resolve this.,Order Issue,Medium
+1233,"Please help me, I was charged for my subscription This is urgent.",Subscription,Low
+1234,"Please help me, when will the refund be credited? I need an update.",Refund,High
+1235,Can you help? How long will my refund take? Please help me.,Refund,Medium
+1236,I am having trouble because i get an error when uploading a file This is urgent.,Technical Issue,Medium
+1237,I need assistance because I need to update my order details,Order Issue,High
+1238,I am contacting support because can i downgrade my subscription? Please resolve this.,Subscription,Low
+1239,I need assistance because I placed the wrong order and need help Please resolve this.,Order Issue,Medium
+1240,I am contacting support because i need help with my subscription,Subscription,High
+1241,I am having trouble because my account is locked Please let me know what I need to do.,Account Issue,Low
+1242,Could you please help? My package is delayed Please resolve this.,Delivery,Medium
+1243,I cannot reset my password This is urgent.,Account Issue,High
+1244,Can you help? the payment page shows an error Please resolve this.,Payment Issue,High
+1245,Please help me recover my account I need an update.,Account Issue,High
+1246,I am contacting support because I want to cancel my subscription Please help me.,Subscription,High
+1247,Could you please help? I forgot my password This is urgent.,Account Issue,Medium
+1248,"Please help me, my payment failed while placing the order This is urgent.",Payment Issue,High
+1249,"Please help me, My package is delayed Please let me know what I need to do.",Delivery,Medium
+1250,I am having trouble because I received the wrong product I need an update.,Order Issue,Low
+1251,I am having trouble because I want a refund for my order Please let me know what I need to do.,Refund,High
+1252,I need assistance because The website is not working What should I do?,Technical Issue,Medium
+1253,I need support with this: my subscription was cancelled unexpectedly What should I do?,Subscription,High
+1254,My package has not arrived This is urgent.,Delivery,Low
+1255,I need assistance because why was i charged for the subscription? What should I do?,Subscription,Medium
+1256,"Please help me, When will the refund be credited?",Refund,High
+1257,Why was I charged for the subscription? What should I do?,Subscription,High
+1258,I need support with this: the application is very slow,Technical Issue,High
+1259,I need assistance because The application is very slow What should I do?,Technical Issue,Medium
+1260,I am having trouble because The page is not loading Please let me know what I need to do.,Technical Issue,High
+1261,I am contacting support because My subscription payment failed Please help me.,Subscription,Medium
+1262,"Please help me, My shipment has not arrived yet Please help me.",Delivery,Medium
+1263,I need support with this: My card payment was declined Please help me.,Payment Issue,Medium
+1264,"Please help me, can i change my order before it ships? What should I do?",Order Issue,High
+1265,I am contacting support because The app stopped responding Please resolve this.,Technical Issue,High
+1266,I need assistance because my shipment has not arrived yet I need an update.,Delivery,Medium
+1267,"Please help me, the mobile app keeps freezing",Technical Issue,Medium
+1268,Could you please help? My shipment has not arrived yet What should I do?,Delivery,Low
+1269,I am having trouble because i want to modify my order What should I do?,Order Issue,Medium
+1270,"Please help me, My payment is still pending This is urgent.",Payment Issue,Medium
+1271,I am having trouble because my subscription payment failed,Subscription,Medium
+1272,Can you help? My refund is still pending Can you check this for me?,Refund,High
+1273,I am contacting support because The mobile app keeps freezing What should I do?,Technical Issue,Medium
+1274,"Please help me, The website keeps crashing Can you check this for me?",Technical Issue,Medium
+1275,I cannot complete the checkout because of an error Please resolve this.,Technical Issue,High
+1276,I need support with this: money was deducted but my order was not confirmed What should I do?,Payment Issue,Medium
+1277,I am contacting support because I want a refund for my order Can you check this for me?,Refund,Medium
+1278,I need support with this: I want to cancel my subscription,Subscription,Medium
+1279,The app stopped responding I need an update.,Technical Issue,Medium
+1280,I need assistance because The payment page shows an error Can you check this for me?,Payment Issue,High
+1281,"Please help me, The payment was rejected even though I have enough balance What should I do?",Payment Issue,Medium
+1282,I am having trouble because I forgot my password I need an update.,Account Issue,Medium
+1283,I am contacting support because My subscription payment failed This is urgent.,Subscription,Medium
+1284,Can you help? My payment is still pending I need an update.,Payment Issue,High
+1285,"Please help me, I was charged for my subscription Can you check this for me?",Subscription,High
+1286,I am contacting support because the application is very slow I need an update.,Technical Issue,High
+1287,How do i change my subscription plan? What should I do?,Subscription,Medium
+1288,"Please help me, I was charged but the transaction failed This is urgent.",Payment Issue,High
+1289,I need assistance because I want to modify my order Please resolve this.,Order Issue,Medium
+1290,Could you please help? I was charged for my subscription This is urgent.,Subscription,Low
+1291,"Please help me, I want to modify my order What should I do?",Order Issue,Low
+1292,I need support with this: I need to request a refund Please let me know what I need to do.,Refund,High
+1293,Can you help? I cannot reset my password This is urgent.,Account Issue,Low
+1294,I need support with this: I want to modify my order Can you check this for me?,Order Issue,High
+1295,I am contacting support because how can i upgrade my subscription? This is urgent.,Subscription,Low
+1296,Can you help? My order contains the wrong item I need an update.,Order Issue,High
+1297,I need assistance because Why was I charged for the subscription? What should I do?,Subscription,Medium
+1298,Could you please help? I want a refund for my order I need an update.,Refund,Medium
+1299,Could you please help? I cannot access my account This is urgent.,Account Issue,High
+1300,"Please help me, i need help with my subscription What should I do?",Subscription,Low
+1301,Please help me recover my account I need an update.,Account Issue,Low
+1302,I need support with this: Why did my online payment fail? Please help me.,Payment Issue,Medium
+1303,"Please help me, i have not received my refund yet What should I do?",Refund,Medium
+1304,Could you please help? i want a refund for my order Please resolve this.,Refund,Medium
+1305,I am having trouble because Why was I charged for the subscription? This is urgent.,Subscription,Low
+1306,How can I upgrade my subscription? What should I do?,Subscription,Low
+1307,I need assistance because I returned the product but have not received my money Please help me.,Refund,Medium
+1308,I need assistance because I received only part of my order Please help me.,Order Issue,Medium
+1309,I am contacting support because my refund is still pending What should I do?,Refund,High
+1310,Could you please help? How do I change my subscription plan? Please resolve this.,Subscription,Medium
+1311,I am having trouble because the mobile app keeps freezing,Technical Issue,High
+1312,I am having trouble because I was charged but the transaction failed Please let me know what I need to do.,Payment Issue,Medium
+1313,I am contacting support because My account is locked Can you check this for me?,Account Issue,High
+1314,I received only part of my order Please resolve this.,Order Issue,High
+1315,Could you please help? I want to cancel my subscription I need an update.,Subscription,High
+1316,"Please help me, I returned the product but have not received my money What should I do?",Refund,Medium
+1317,"Please help me, I want a refund for my order Can you check this for me?",Refund,Medium
+1318,I am having trouble because i was charged but the transaction failed,Payment Issue,Medium
+1319,I need support with this: The mobile app keeps freezing Please resolve this.,Technical Issue,Medium
+1320,I need assistance because the app stopped responding Please let me know what I need to do.,Technical Issue,High
+1321,Can you help? My refund is still pending Can you check this for me?,Refund,High
+1322,Can you help? I need help with a failed payment I need an update.,Payment Issue,High
+1323,"Please help me, Where is my order?",Delivery,Low
+1324,I am having trouble because I received the wrong product Please resolve this.,Order Issue,High
+1325,I need support with this: money was deducted but my order was not confirmed This is urgent.,Payment Issue,High
+1326,I am having trouble because The item in my order is incorrect Can you check this for me?,Order Issue,Low
+1327,I am having trouble because Please help me recover my account Please let me know what I need to do.,Account Issue,Medium
+1328,Can you help? how can i change my password?,Account Issue,Medium
+1329,I need assistance because I want to renew my subscription Please resolve this.,Subscription,Medium
+1330,Please help me recover my account This is urgent.,Account Issue,High
+1331,I am contacting support because Money was deducted but my order was not confirmed I need an update.,Payment Issue,Medium
+1332,Can you help? I am seeing an error message,Technical Issue,High
+1333,"Please help me, I was charged but the transaction failed What should I do?",Payment Issue,Medium
+1334,Could you please help? My package is delayed Please let me know what I need to do.,Delivery,Medium
+1335,I need support with this: I cannot log into my account This is urgent.,Account Issue,High
+1336,I need assistance because how can i upgrade my subscription? What should I do?,Subscription,High
+1337,I need assistance because I was charged for my subscription Can you check this for me?,Subscription,Medium
+1338,I need support with this: the page is not loading Please resolve this.,Technical Issue,Medium
+1339,Could you please help? My login is not working Please resolve this.,Account Issue,High
+1340,I am contacting support because How do I change my subscription plan? This is urgent.,Subscription,Medium
+1341,"Please help me, please provide an update on my delivery",Delivery,Low
+1342,I am having trouble because I need help with a failed payment What should I do?,Payment Issue,High
+1343,I need assistance because My refund is still pending Please help me.,Refund,Medium
+1344,"Please help me, I was charged twice for the same order Please resolve this.",Payment Issue,Medium
+1345,"Please help me, The payment page shows an error",Payment Issue,Medium
+1346,Can you help? My package has not arrived Can you check this for me?,Delivery,High
+1347,I am contacting support because I want to cancel my subscription Please resolve this.,Subscription,Low
+1348,I am contacting support because Can I change my order before it ships? Please let me know what I need to do.,Order Issue,Medium
+1349,"Please help me, Why was I charged for the subscription? I need an update.",Subscription,Low
+1350,I need assistance because i cannot complete the checkout because of an error This is urgent.,Technical Issue,Medium
+1351,I need assistance because why was i charged for the subscription? Please help me.,Subscription,High
+1352,Could you please help? The product is damaged and I want a refund What should I do?,Refund,High
+1353,I am contacting support because The app stopped responding I need an update.,Technical Issue,High
+1354,I am having trouble because the application is crashing when i open it,Technical Issue,High
+1355,I need assistance because my shipment has not arrived yet Please resolve this.,Delivery,Medium
+1356,I am contacting support because I want to renew my subscription What should I do?,Subscription,High
+1357,Could you please help? The website keeps crashing This is urgent.,Technical Issue,Medium
+1358,"Please help me, my subscription was cancelled unexpectedly",Subscription,Medium
+1359,I need support with this: my account is locked Please resolve this.,Account Issue,Medium
+1360,I need support with this: the refund amount is missing from my account,Refund,Medium
+1361,I am contacting support because i want to track my package I need an update.,Delivery,Low
+1362,I need assistance because The app stopped responding Please help me.,Technical Issue,High
+1363,Could you please help? Can I change my order before it ships? What should I do?,Order Issue,Medium
+1364,"Please help me, the refund amount is missing from my account This is urgent.",Refund,Medium
+1365,"Please help me, The refund amount is missing from my account Please help me.",Refund,High
+1366,I am having trouble because the website is not working Can you check this for me?,Technical Issue,High
+1367,I am having trouble because I cannot complete the checkout because of an error What should I do?,Technical Issue,Medium
+1368,I need assistance because i want to renew my subscription Can you check this for me?,Subscription,Medium
+1369,I need assistance because I am seeing an error message,Technical Issue,Medium
+1370,"Please help me, Can I downgrade my subscription? Please resolve this.",Subscription,High
+1371,Can you help? My subscription was cancelled unexpectedly,Subscription,Low
+1372,Why was i charged for the subscription?,Subscription,Medium
+1373,I am having trouble because when will my order be delivered? This is urgent.,Delivery,Low
+1374,I am having trouble because I need to request a refund Can you check this for me?,Refund,Medium
+1375,I am having trouble because i received the wrong product This is urgent.,Order Issue,Low
+1376,Can you help? I have not received my refund yet Can you check this for me?,Refund,Medium
+1377,Can you help? Please provide an update on my delivery I need an update.,Delivery,Low
+1378,I need assistance because How long will my refund take?,Refund,High
+1379,I need assistance because The page is not loading Can you check this for me?,Technical Issue,High
+1380,The website is not working Please let me know what I need to do.,Technical Issue,High
+1381,I need support with this: the application is crashing when i open it,Technical Issue,High
+1382,Can you help? I need to request a refund Please resolve this.,Refund,Medium
+1383,"Please help me, i want to cancel my order Please let me know what I need to do.",Order Issue,Low
+1384,I want a refund for my order Please let me know what I need to do.,Refund,Medium
+1385,"Please help me, The app stopped responding Can you check this for me?",Technical Issue,Medium
+1386,Can you help? The expected delivery date has passed What should I do?,Delivery,High
+1387,Could you please help? Why was I charged for the subscription? Please let me know what I need to do.,Subscription,Low
+1388,I am contacting support because The refund amount is missing from my account This is urgent.,Refund,High
+1389,I need support with this: Why did my online payment fail? I need an update.,Payment Issue,Medium
+1390,I placed the wrong order and need help,Order Issue,High
+1391,I am contacting support because I want a refund for my order What should I do?,Refund,High
+1392,The mobile app keeps freezing This is urgent.,Technical Issue,High
+1393,I want to track my package This is urgent.,Delivery,Medium
+1394,I am having trouble because my shipment has not arrived yet What should I do?,Delivery,Low
+1395,I am having trouble because i placed the wrong order and need help I need an update.,Order Issue,High
+1396,I am having trouble because My order was cancelled unexpectedly Can you check this for me?,Order Issue,Medium
+1397,Can you help? My card payment was declined,Payment Issue,High
+1398,I need support with this: How can I change my password? Please let me know what I need to do.,Account Issue,Medium
+1399,I am contacting support because The delivery is taking too long Please resolve this.,Delivery,High
+1400,I need support with this: Can you tell me the delivery status? What should I do?,Delivery,Medium
+1401,"Please help me, my login is not working Please help me.",Account Issue,Low
+1402,Could you please help? My shipment has not arrived yet What should I do?,Delivery,High
+1403,Can you help? my subscription was cancelled unexpectedly What should I do?,Subscription,Medium
+1404,"Please help me, The application is crashing when I open it This is urgent.",Technical Issue,High
+1405,Could you please help? I want to modify my order I need an update.,Order Issue,Low
+1406,"Please help me, i need to request a refund Please let me know what I need to do.",Refund,Medium
+1407,Can you help? I need to request a refund,Refund,High
+1408,I need support with this: i received only part of my order This is urgent.,Order Issue,Low
+1409,Can you help? My package is delayed I need an update.,Delivery,High
+1410,I need support with this: Where is my order? Please help me.,Delivery,Low
+1411,Can you help? Why did my online payment fail? Can you check this for me?,Payment Issue,Medium
+1412,The delivery is taking too long Please resolve this.,Delivery,Low
+1413,"Please help me, Please help me recover my account This is urgent.",Account Issue,Medium
+1414,Could you please help? when will the refund be credited?,Refund,Medium
+1415,I want to modify my order,Order Issue,Low
+1416,I need assistance because I placed the wrong order and need help This is urgent.,Order Issue,High
+1417,Could you please help? I received the wrong product This is urgent.,Order Issue,High
+1418,I am contacting support because My shipment has not arrived yet This is urgent.,Delivery,Low
+1419,"Please help me, the payment was rejected even though i have enough balance Please help me.",Payment Issue,Medium
+1420,"Please help me, The payment was rejected even though I have enough balance",Payment Issue,High
+1421,I am contacting support because The item in my order is incorrect,Order Issue,Low
+1422,"Please help me, the payment was rejected even though i have enough balance",Payment Issue,High
+1423,I need support with this: i need to update my order details I need an update.,Order Issue,Low
+1424,Can you help? How can I change my password?,Account Issue,High
+1425,I am having trouble because how can i change my password? What should I do?,Account Issue,Low
+1426,"Please help me, My login is not working",Account Issue,Low
+1427,"Please help me, i am unable to sign in What should I do?",Account Issue,High
+1428,I am having trouble because I cannot log into my account Please resolve this.,Account Issue,Low
+1429,I am having trouble because Please process my refund What should I do?,Refund,High
+1430,Can you help? I am seeing an error message What should I do?,Technical Issue,Medium
+1431,Could you please help? My order contains the wrong item Please resolve this.,Order Issue,Low
+1432,Could you please help? i want a refund for my order Please resolve this.,Refund,High
+1433,The application is very slow Can you check this for me?,Technical Issue,High
+1434,I need support with this: How do I change my subscription plan? What should I do?,Subscription,Low
+1435,"Please help me, How long will my refund take? I need an update.",Refund,High
+1436,I need assistance because Money was deducted but my order was not confirmed Please help me.,Payment Issue,Medium
+1437,Can you help? My payment failed while placing the order This is urgent.,Payment Issue,Medium
+1438,I need support with this: i get an error when uploading a file What should I do?,Technical Issue,High
+1439,I am having trouble because My order contains the wrong item Please let me know what I need to do.,Order Issue,High
+1440,I need assistance because Please process my refund What should I do?,Refund,Medium
+1441,I need assistance because i am unable to sign in Can you check this for me?,Account Issue,High
+1442,Can you help? The payment page shows an error This is urgent.,Payment Issue,High
+1443,I need assistance because Please provide an update on my delivery,Delivery,Low
+1444,I am contacting support because The payment was rejected even though I have enough balance Please resolve this.,Payment Issue,Medium
+1445,Could you please help? The delivery is taking too long I need an update.,Delivery,Low
+1446,"Please help me, my order was cancelled unexpectedly Please help me.",Order Issue,Medium
+1447,My package is delayed Please resolve this.,Delivery,Medium
+1448,I am having trouble because i cannot reset my password Can you check this for me?,Account Issue,High
+1449,My package has not arrived Please resolve this.,Delivery,High
+1450,I cannot reset my password I need an update.,Account Issue,High
+1451,Could you please help? I received the wrong product Please resolve this.,Order Issue,High
+1452,I am contacting support because i cannot complete the checkout because of an error What should I do?,Technical Issue,Medium
+1453,I am contacting support because I need to request a refund Please help me.,Refund,Medium
+1454,Could you please help? I need help with my subscription Please resolve this.,Subscription,Medium
+1455,"Please help me, i want to track my package Please resolve this.",Delivery,High
+1456,I need assistance because how can i change my password? Please help me.,Account Issue,Low
+1457,I need assistance because i received only part of my order I need an update.,Order Issue,Medium
+1458,Could you please help? The payment was rejected even though I have enough balance What should I do?,Payment Issue,High
+1459,I am having trouble because The payment page shows an error Please let me know what I need to do.,Payment Issue,Medium
+1460,"Please help me, My package has not arrived Please resolve this.",Delivery,High
+1461,I cannot access my account Please let me know what I need to do.,Account Issue,Low
+1462,I am contacting support because when will my order be delivered? Please help me.,Delivery,Medium
+1463,I need assistance because I get an error when uploading a file Can you check this for me?,Technical Issue,Medium
+1464,I am having trouble because i have not received my refund yet I need an update.,Refund,Medium
+1465,Could you please help? my subscription payment failed,Subscription,High
+1466,I am having trouble because can i change my order before it ships?,Order Issue,Medium
+1467,"Please help me, the item in my order is incorrect Please let me know what I need to do.",Order Issue,Low
+1468,Can you help? I want to renew my subscription This is urgent.,Subscription,High
+1469,I am seeing an error message Can you check this for me?,Technical Issue,High
+1470,I am contacting support because my payment failed while placing the order Please resolve this.,Payment Issue,Medium
+1471,I need support with this: the payment page shows an error Please help me.,Payment Issue,Medium
+1472,I need assistance because When will my order be delivered? Can you check this for me?,Delivery,Medium
+1473,"Please help me, Please process my refund Please help me.",Refund,High
+1474,I am contacting support because How can I upgrade my subscription? Can you check this for me?,Subscription,Low
+1475,I need assistance because my subscription payment failed Please help me.,Subscription,Low
+1476,Could you please help? How can I upgrade my subscription? This is urgent.,Subscription,Low
+1477,I need support with this: Why did my online payment fail? Can you check this for me?,Payment Issue,Medium
+1478,I am contacting support because How do I change my subscription plan? Please resolve this.,Subscription,High
+1479,I am having trouble because I received only part of my order Please help me.,Order Issue,Medium
+1480,"Please help me, I returned the product but have not received my money Please help me.",Refund,High
+1481,I am having trouble because How do I change my subscription plan? Please help me.,Subscription,High
+1482,The expected delivery date has passed Please let me know what I need to do.,Delivery,Medium
+1483,I am contacting support because I cannot access my account,Account Issue,Medium
+1484,I am contacting support because the payment was rejected even though i have enough balance I need an update.,Payment Issue,Medium
+1485,I am having trouble because My login is not working,Account Issue,Medium
+1486,I am contacting support because I want a refund for my order I need an update.,Refund,Medium
+1487,How can I change my password? Please resolve this.,Account Issue,High
+1488,I need assistance because i cannot complete the checkout because of an error Please help me.,Technical Issue,High
+1489,Could you please help? My payment is still pending What should I do?,Payment Issue,Medium
+1490,I want to track my package Please help me.,Delivery,High
+1491,"Please help me, I was charged but the transaction failed Please let me know what I need to do.",Payment Issue,Medium
+1492,I have not received my refund yet Please let me know what I need to do.,Refund,Medium
+1493,I need assistance because The page is not loading Can you check this for me?,Technical Issue,Medium
+1494,I need assistance because My package is delayed Please help me.,Delivery,High
+1495,Could you please help? i am seeing an error message This is urgent.,Technical Issue,Medium
+1496,"Please help me, the refund amount is missing from my account I need an update.",Refund,Medium
+1497,I need assistance because Can I downgrade my subscription? Please let me know what I need to do.,Subscription,High
+1498,Can you help? When will my order be delivered? What should I do?,Delivery,Low
+1499,I need assistance because I received the wrong product Please resolve this.,Order Issue,High
+1500,I am having trouble because My payment failed while placing the order,Payment Issue,Medium
+1501,"Please help me, i want to cancel my order Please help me.",Order Issue,Medium
+1502,Could you please help? the delivery is taking too long Can you check this for me?,Delivery,High
+1503,I need support with this: My subscription was cancelled unexpectedly What should I do?,Subscription,Medium
+1504,Could you please help? I need to request a refund What should I do?,Refund,Medium
+1505,Can you help? my order contains the wrong item,Order Issue,High
+1506,I need support with this: Please process my refund Can you check this for me?,Refund,Medium
+1507,The expected delivery date has passed What should I do?,Delivery,Low
+1508,Could you please help? i want to track my package Can you check this for me?,Delivery,Medium
+1509,I need assistance because i am unable to sign in Please resolve this.,Account Issue,High
+1510,Why did my online payment fail? Please resolve this.,Payment Issue,Medium
+1511,I need support with this: My subscription payment failed Please let me know what I need to do.,Subscription,High
+1512,I have not received my refund yet What should I do?,Refund,High
+1513,I am having trouble because the app stopped responding This is urgent.,Technical Issue,Medium
+1514,I cannot reset my password Please help me.,Account Issue,High
+1515,I am having trouble because i need to update my order details,Order Issue,Low
+1516,I am having trouble because the mobile app keeps freezing Please resolve this.,Technical Issue,High
+1517,My account is locked Please help me.,Account Issue,Low
+1518,"Please help me, Where is my order?",Delivery,Low
+1519,I need support with this: How do I change my subscription plan? Can you check this for me?,Subscription,High
+1520,I need assistance because Why was I charged for the subscription? Please resolve this.,Subscription,High
+1521,I am contacting support because i cannot access my account Please resolve this.,Account Issue,High
+1522,Could you please help? The expected delivery date has passed I need an update.,Delivery,Medium
+1523,I need support with this: Why was I charged for the subscription? This is urgent.,Subscription,High
+1524,I need assistance because my payment failed while placing the order,Payment Issue,Medium
+1525,I am having trouble because my package has not arrived Please resolve this.,Delivery,Low
+1526,I am contacting support because i am seeing an error message I need an update.,Technical Issue,Medium
+1527,Could you please help? I was charged for my subscription I need an update.,Subscription,Medium
+1528,Can you help? Why did my online payment fail? Please resolve this.,Payment Issue,Medium
+1529,"Please help me, I need help with my subscription Please let me know what I need to do.",Subscription,Low
+1530,"Please help me, i forgot my password Please let me know what I need to do.",Account Issue,High
+1531,I need support with this: The application is crashing when I open it Please help me.,Technical Issue,Medium
+1532,Could you please help? I need to request a refund Please help me.,Refund,Medium
+1533,I am having trouble because The payment page shows an error I need an update.,Payment Issue,High
+1534,I need assistance because i received only part of my order,Order Issue,High
+1535,"Please help me, I placed the wrong order and need help Can you check this for me?",Order Issue,Low
+1536,I need support with this: the application is very slow This is urgent.,Technical Issue,Medium
+1537,I am having trouble because i cannot complete the checkout because of an error This is urgent.,Technical Issue,High
+1538,I am contacting support because when will my order be delivered?,Delivery,Low
+1539,"Please help me, My subscription was cancelled unexpectedly I need an update.",Subscription,Medium
+1540,"Please help me, The website keeps crashing Please help me.",Technical Issue,Medium
